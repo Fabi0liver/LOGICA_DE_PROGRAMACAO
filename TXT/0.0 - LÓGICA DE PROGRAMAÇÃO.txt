@@ -143,13 +143,30 @@ forma possível. É essa mentalidade que diferencia um bom programador de algué
 
                                            "Algoritmos"
 
-Quando falamos em algoritmos, estamos nos referindo a uma espécie de “receita de bolo” para o computador. Isso mesmo! Assim como uma receita ensina passo a passo como preparar um prato, um algoritmo é uma sequência organizada de instruções que diz ao computador exatamente o que fazer para resolver um problema. Ele não entende improviso nem jeitinho brasileiro, o computador precisa de cada etapa bem definida e numa ordem lógica. Por isso, criar bons algoritmos é uma das primeiras habilidades que desenvolvemos ao entrar no mundo da programação.
+ Quando falamos em algoritmos, estamos nos referindo a uma espécie de “receita de bolo” para o computador. Isso 
+mesmo! Assim como uma receita ensina passo a passo como preparar um prato, um algoritmo é uma sequência organizada 
+de instruções que diz ao computador exatamente o que fazer para resolver um problema. Ele não entende improviso nem 
+jeitinho brasileiro, o computador precisa de cada etapa bem definida e numa ordem lógica. Por isso, criar bons 
+algoritmos é uma das primeiras habilidades que desenvolvemos ao entrar no mundo da programação.
 
-A importância dos algoritmos na lógica de programação é enorme, porque eles funcionam como o esqueleto do raciocínio computacional. São eles que transformam nossas ideias em ações concretas para a máquina executar. Sem algoritmos bem pensados, o programa pode até funcionar, mas será confuso, lento ou até mesmo falhar. Por isso, eles estão no coração de toda aplicação, desde os aplicativos mais simples até os sistemas mais avançados. Pensar em algoritmos é como treinar a mente para organizar pensamentos com clareza e precisão.
+ A importância dos algoritmos na lógica de programação é enorme, porque eles funcionam como o esqueleto do 
+raciocínio computacional. São eles que transformam nossas ideias em ações concretas para a máquina executar. Sem 
+algoritmos bem pensados, o programa pode até funcionar, mas será confuso, lento ou até mesmo falhar. Por isso, eles 
+estão no coração de toda aplicação, desde os aplicativos mais simples até os sistemas mais avançados. Pensar em 
+algoritmos é como treinar a mente para organizar pensamentos com clareza e precisão.
 
-Além disso, os algoritmos têm uma ligação direta com o pensamento computacional, que é justamente essa habilidade de resolver problemas de forma estruturada, lógica e eficiente. Quando você aprende a criar algoritmos, começa a enxergar padrões, antecipar erros e encontrar soluções mais elegantes para os desafios. É como desenvolver um novo jeito de pensar — mais estratégico, mais racional, quase como aprender um superpoder da mente. E o mais legal: esse tipo de pensamento pode ser aplicado também na vida real, fora dos computadores.
+ Além disso, os algoritmos têm uma ligação direta com o pensamento computacional, que é justamente essa habilidade 
+de resolver problemas de forma estruturada, lógica e eficiente. Quando você aprende a criar algoritmos, começa a 
+enxergar padrões, antecipar erros e encontrar soluções mais elegantes para os desafios. É como desenvolver um novo 
+jeito de pensar — mais estratégico, mais racional, quase como aprender um superpoder da mente. E o mais legal: esse 
+tipo de pensamento pode ser aplicado também na vida real, fora dos computadores.
 
-Por fim, entender algoritmos é fundamental para quem está dando os primeiros passos na lógica de programação. Eles são a ponte entre o problema e a solução, e dominá-los significa ter o controle da construção do seu próprio código. Mesmo que no início pareçam desafiadores, com prática e paciência, eles se tornam ferramentas incríveis nas suas mãos. É como aprender a montar blocos de LEGO, quanto mais você entende as peças, mais incrível fica o que você é capaz de construir. Então, vamos com calma, mas com firmeza, porque entender algoritmos é abrir a porta para tudo o que a programação tem de melhor a oferecer.
+ Por fim, entender algoritmos é fundamental para quem está dando os primeiros passos na lógica de programação. Eles 
+são a ponte entre o problema e a solução, e dominá-los significa ter o controle da construção do seu próprio 
+código. Mesmo que no início pareçam desafiadores, com prática e paciência, eles se tornam ferramentas incríveis nas 
+suas mãos. É como aprender a montar blocos de LEGO, quanto mais você entende as peças, mais incrível fica o que 
+você é capaz de construir. Então, vamos com calma, mas com firmeza, porque entender algoritmos é abrir a porta para 
+tudo o que a programação tem de melhor a oferecer.
 
 
 
