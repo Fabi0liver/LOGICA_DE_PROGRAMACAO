@@ -86,7 +86,7 @@ profissional de tecnologia.
 
 
 
-                                      "Programa e Programação" 
+                                       "Programa e Programação" 
 
  Quando a gente começa a estudar lógica de programação, dois termos aparecem logo de cara: programa e programação. 
 Eles parecem iguais, mas têm funções diferentes nesse universo. De forma bem simples, o programa é o resultado 
@@ -112,15 +112,32 @@ clareza, criatividade e eficiência.
 
 
 
-                                     "Pensamento Computacional"
+                                      "Pensamento Computacional"
 
-O pensamento computacional é a maneira como organizamos nosso raciocínio para resolver problemas de forma eficiente, utilizando princípios semelhantes aos que os computadores seguem. Ele não é apenas sobre programação, mas sim sobre estruturar ideias de forma lógica e sistemática. Assim como um arquiteto precisa planejar antes de construir, o programador precisa estruturar seu raciocínio antes de escrever código. O pensamento computacional nos ensina a enxergar desafios como quebra-cabeças, onde cada peça precisa ser encaixada de maneira estratégica para formar a solução completa.
+ O pensamento computacional é a maneira como organizamos nosso raciocínio para resolver problemas de forma 
+eficiente, utilizando princípios semelhantes aos que os computadores seguem. Ele não é apenas sobre programação, 
+mas sim sobre estruturar ideias de forma lógica e sistemática. Assim como um arquiteto precisa planejar antes de 
+construir, o programador precisa estruturar seu raciocínio antes de escrever código. O pensamento computacional nos 
+ensina a enxergar desafios como quebra-cabeças, onde cada peça precisa ser encaixada de maneira estratégica para 
+formar a solução completa.
 
-Na lógica de programação, o pensamento computacional se torna essencial porque ele nos dá ferramentas para analisar problemas e encontrar soluções organizadas. Isso inclui a habilidade de dividir um grande problema em partes menores, reconhecer padrões, criar algoritmos e avaliar se uma solução é realmente eficiente. É como cozinhar uma refeição complexa: ao invés de tentar fazer tudo de uma vez, você segue um plano, prepara os ingredientes na ordem certa e otimiza seu tempo para garantir que tudo fique pronto ao mesmo tempo.
+ Na lógica de programação, o pensamento computacional se torna essencial porque ele nos dá ferramentas para  
+analisar problemas e encontrar soluções organizadas. Isso inclui a habilidade de dividir um grande problema em 
+partes menores, reconhecer padrões, criar algoritmos e avaliar se uma solução é realmente eficiente. É como 
+cozinhar uma refeição complexa: ao invés de tentar fazer tudo de uma vez, você segue um plano, prepara os 
+ingredientes na ordem certa e otimiza seu tempo para garantir que tudo fique pronto ao mesmo tempo.
 
-Outro aspecto fundamental do pensamento computacional é que ele nos ajuda a criar soluções reutilizáveis e adaptáveis. Ao invés de escrever um código que só funciona para um caso específico, buscamos formas de torná-lo flexível e eficiente para diferentes situações. Isso é semelhante a construir uma ferramenta versátil ao invés de uma que só serve para um único propósito. Dessa forma, os programas se tornam mais inteligentes, fáceis de manter e mais eficazes para resolver uma variedade de problemas.
+ Outro aspecto fundamental do pensamento computacional é que ele nos ajuda a criar soluções reutilizáveis e 
+adaptáveis. Ao invés de escrever um código que só funciona para um caso específico, buscamos formas de torná-lo 
+flexível e eficiente para diferentes situações. Isso é semelhante a construir uma ferramenta versátil ao invés de 
+uma que só serve para um único propósito. Dessa forma, os programas se tornam mais inteligentes, fáceis de manter e 
+mais eficazes para resolver uma variedade de problemas.
 
-Por fim, desenvolver o pensamento computacional não é útil apenas para programar, mas também para melhorar a forma como resolvemos problemas no dia a dia. Ele nos ensina a pensar com clareza, a prever obstáculos antes que eles aconteçam e a encontrar soluções mais eficientes. Quando aplicamos esse tipo de raciocínio na lógica de programação, criamos códigos mais organizados, fáceis de entender e que realmente resolvem problemas da melhor forma possível. É essa mentalidade que diferencia um bom programador de alguém que apenas sabe escrever comandos.
+ Por fim, desenvolver o pensamento computacional não é útil apenas para programar, mas também para melhorar a forma 
+como resolvemos problemas no dia a dia. Ele nos ensina a pensar com clareza, a prever obstáculos antes que eles 
+aconteçam e a encontrar soluções mais eficientes. Quando aplicamos esse tipo de raciocínio na lógica de 
+programação, criamos códigos mais organizados, fáceis de entender e que realmente resolvem problemas da melhor 
+forma possível. É essa mentalidade que diferencia um bom programador de alguém que apenas sabe escrever comandos.
 
 
 
