@@ -254,40 +254,78 @@ lógica começa com uma boa conversa entre o programa e quem o utiliza, e essa c
 
                                         "Tipos de Dados Básicos" 
 
-Quando começamos a aprender a programar, é como aprender um novo idioma. Nesse idioma, uma das primeiras coisas que precisamos entender é como expressar diferentes tipos de informações, como números, palavras, decisões e símbolos. Para isso, utilizamos os chamados tipos de dados, que funcionam como categorias que ajudam o computador a entender que tipo de informação está sendo armazenada ou processada. Saber usar bem os tipos de dados é como saber escolher as palavras certas numa conversa: cada uma tem um propósito específico.
+ Quando começamos a aprender a programar, é como aprender um novo idioma. Nesse idioma, uma das primeiras coisas 
+que precisamos entender é como expressar diferentes tipos de informações, como números, palavras, decisões e 
+símbolos. Para isso, utilizamos os chamados tipos de dados, que funcionam como categorias que ajudam o computador a 
+entender que tipo de informação está sendo armazenada ou processada. Saber usar bem os tipos de dados é como saber 
+escolher as palavras certas numa conversa: cada uma tem um propósito específico.
 
-Esses tipos de dados são fundamentais para que possamos criar programas que fazem contas, tomam decisões, exibem mensagens ou até mesmo interagem com o usuário. Eles formam a base da lógica de programação, porque é a partir deles que estruturamos o que será feito com cada informação. 
+ Esses tipos de dados são fundamentais para que possamos criar programas que fazem contas, tomam decisões, exibem 
+mensagens ou até mesmo interagem com o usuário. Eles formam a base da lógica de programação, porque é a partir 
+deles que estruturamos o que será feito com cada informação. 
 
-E agora que você já entendeu por que os tipos de dados são importantes, vamos conhecer os tipos de dados básicos da lógica de programação, que são os primeiros que você deve dominar.
+ E agora que você já entendeu por que os tipos de dados são importantes, vamos conhecer os tipos de dados básicos 
+da lógica de programação, que são os primeiros que você deve dominar.
 
- Caractere (Character - char): O tipo caractere representa um único símbolo, como uma letra, um número ou um sinal. Imagine uma caixinha que guarda apenas um caractere por vez — como um 'A', um '7' ou um '@'. Esse tipo é muito usado quando precisamos analisar ou manipular símbolos individualmente. Em muitas linguagens, os caracteres são representados entre aspas simples, como 'a' ou '9'.
+ * Caractere (Character - char): O tipo caractere representa um único símbolo, como uma letra, um número ou um 
+  sinal. Imagine uma caixinha que guarda apenas um caractere por vez — como um 'A', um '7' ou um '@'. Esse tipo é 
+  muito usado quando precisamos analisar ou manipular símbolos individualmente. Em muitas linguagens, os caracteres 
+  são representados entre aspas simples, como 'a' ou '9'.
 
-Apesar de parecer simples, o tipo caractere é extremamente útil em várias situações. Por exemplo, ao verificar se uma tecla foi pressionada, ou ao identificar se um símbolo é uma letra, número ou pontuação. É como se cada caractere fosse uma peça de um quebra-cabeça, e com várias delas, conseguimos formar palavras, frases e muito mais.
-
-
- String (Texto - str): A string é uma sequência de caracteres, ou seja, várias "caixinhas de caractere" alinhadas uma ao lado da outra formando palavras, frases e até parágrafos inteiros. Imagine uma fita com vários símbolos colados um ao lado do outro, como "Olá, mundo!" ou "Senha123". As strings são delimitadas por aspas duplas na maioria das linguagens.
-
-Esse tipo de dado é amplamente utilizado em qualquer programa que envolva texto — desde mostrar mensagens ao usuário até manipular nomes, senhas, endereços e comandos. Trabalhar com strings é essencial para tornar a interação com o usuário mais clara e personalizada, pois boa parte da comunicação com o computador é feita por meio de texto.
-
-
- Inteiro (Integer - int): O tipo inteiro representa números sem parte decimal, ou seja, números inteiros como -5, 0, 7, 100. Eles são usados em situações onde não precisamos de frações, como contar quantidades, controlar repetições ou trabalhar com índices em listas. Em termos práticos, pense nos inteiros como os "contadores" do mundo da programação.
-
-Eles são bastante eficientes e estão presentes em quase todos os programas, mesmo que de forma invisível. Toda vez que um programa conta quantos itens foram vendidos, quantas vezes uma tecla foi pressionada ou qual é o nível de vida de um personagem em um jogo, ele provavelmente está lidando com números inteiros.
-
-
-Real ou Ponto Flutuante (Float): Os números reais, também chamados de ponto flutuante, representam números com parte decimal, como 3.14, -0.75 ou 2.0. Esse tipo é usado quando precisamos de precisão maior, como em cálculos científicos, financeiros ou em medições que envolvem frações. O nome "ponto flutuante" vem do fato de que a vírgula pode "flutuar", mudando de posição dependendo do valor.
-
-Imagine que você está fazendo um programa para calcular o troco de uma compra ou a distância percorrida em quilômetros — nesse caso, você vai precisar usar valores decimais, e aí entram os floats. Eles são um pouco mais pesados de processar do que os inteiros, mas são indispensáveis para a maioria das aplicações do mundo real.
+   Apesar de parecer simples, o tipo caractere é extremamente útil em várias situações. Por exemplo, ao verificar 
+  se uma tecla foi pressionada, ou ao identificar se um símbolo é uma letra, número ou pontuação. É como se cada 
+  caractere fosse uma peça de um quebra-cabeça, e com várias delas, conseguimos formar palavras, frases e muito 
+  mais.
 
 
-Booleano (Boolean - bool): O tipo booleano representa uma decisão binária, ou seja, algo que pode ser verdadeiro (true) ou falso (false). Ele é a base para todas as estruturas de controle, como decisões e repetições. Imagine um interruptor de luz que só tem duas posições: ligado ou desligado, esse é o espírito do booleano.
+ * String (Texto - str): A string é uma sequência de caracteres, ou seja, várias "caixinhas de caractere" alinhadas 
+  uma ao lado da outra formando palavras, frases e até parágrafos inteiros. Imagine uma fita com vários símbolos 
+  colados um ao lado do outro, como "Olá, mundo!" ou "Senha123". As strings são delimitadas por aspas duplas na 
+  maioria das linguagens.
 
-Com booleanos, conseguimos fazer os programas "pensarem", ou seja, tomarem decisões com base em condições. Por exemplo, "Se o usuário estiver logado, mostre a página", ou "Se a senha estiver incorreta, mostre uma mensagem de erro". É como se estivéssemos ensinando o computador a responder perguntas com sim ou não, e agir a partir disso.
+   Esse tipo de dado é amplamente utilizado em qualquer programa que envolva texto — desde mostrar mensagens ao 
+  usuário até manipular nomes, senhas, endereços e comandos. Trabalhar com strings é essencial para tornar a 
+  interação com o usuário mais clara e personalizada, pois boa parte da comunicação com o computador é feita por 
+  meio de texto.
 
 
-Em suma, entender e dominar os tipos de dados básicos é como aprender a usar as ferramentas certas para cada tarefa. Cada tipo tem sua função e importância dentro de um programa, e saber quando usar cada um deles ajuda a tornar seu código mais claro, mais eficiente e mais fácil de manter. Pense nos tipos de dados como as bases de construção do seu programa, são eles que dão forma e sentido a tudo que você está criando.
+ * Inteiro (Integer - int): O tipo inteiro representa números sem parte decimal, ou seja, números inteiros como -5, 
+  0, 7, 100. Eles são usados em situações onde não precisamos de frações, como contar quantidades, controlar 
+  repetições ou trabalhar com índices em listas. Em termos práticos, pense nos inteiros como os "contadores" do 
+  mundo da programação.
 
-Ao longo do tempo, você vai perceber que muitos dos problemas que surgem durante a programação estão relacionados a como os dados foram representados. Por isso, conhecer bem os tipos de dados desde o início é uma vantagem enorme. Com essa base bem sólida, você poderá evoluir para estruturas mais complexas e resolver problemas cada vez maiores com mais segurança.
+   Eles são bastante eficientes e estão presentes em quase todos os programas, mesmo que de forma invisível. Toda 
+  vez que um programa conta quantos itens foram vendidos, quantas vezes uma tecla foi pressionada ou qual é o nível 
+  de vida de um personagem em um jogo, ele provavelmente está lidando com números inteiros.
+
+
+ * Real ou Ponto Flutuante (Float): Os números reais, também chamados de ponto flutuante, representam números com 
+  parte decimal, como 3.14, -0.75 ou 2.0. Esse tipo é usado quando precisamos de precisão maior, como em cálculos 
+  científicos, financeiros ou em medições que envolvem frações. O nome "ponto flutuante" vem do fato de que a 
+  vírgula pode "flutuar", mudando de posição dependendo do valor.
+
+   Imagine que você está fazendo um programa para calcular o troco de uma compra ou a distância percorrida em 
+  quilômetros nesse caso, você vai precisar usar valores decimais, e aí entram os floats. Eles são um pouco mais 
+  sados de processar do que os inteiros, mas são indispensáveis para a maioria das aplicações do mundo real.
+
+
+ * Booleano (Boolean - bool): O tipo booleano representa uma decisão binária, ou seja, algo que pode ser verdadeiro 
+  (true) ou falso (false). Ele é a base para todas as estruturas de controle, como decisões e repetições. Imagine 
+  um interruptor de luz que só tem duas posições: ligado ou desligado, esse é o espírito do booleano.
+
+   Com booleanos, conseguimos fazer os programas "pensarem", ou seja, tomarem decisões com base em condições. Por 
+  exemplo, "Se o usuário estiver logado, mostre a página", ou "Se a senha estiver incorreta, mostre uma mensagem de 
+  erro". É como se estivéssemos ensinando o computador a responder perguntas com sim ou não, e agir a partir disso.
+
+ Em suma, entender e dominar os tipos de dados básicos é como aprender a usar as ferramentas certas para cada 
+tarefa. Cada tipo tem sua função e importância dentro de um programa, e saber quando usar cada um deles ajuda a 
+tornar seu código mais claro, mais eficiente e mais fácil de manter. Pense nos tipos de dados como as bases de 
+construção do seu programa, são eles que dão forma e sentido a tudo que você está criando.
+
+ Ao longo do tempo, você vai perceber que muitos dos problemas que surgem durante a programação estão relacionados 
+a como os dados foram representados. Por isso, conhecer bem os tipos de dados desde o início é uma vantagem enorme. 
+Com essa base bem sólida, você poderá evoluir para estruturas mais complexas e resolver problemas cada vez maiores 
+com mais segurança.
 
 
 
