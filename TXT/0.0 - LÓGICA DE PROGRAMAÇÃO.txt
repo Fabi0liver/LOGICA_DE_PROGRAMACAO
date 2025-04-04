@@ -3,7 +3,7 @@
 
 A lógica de programação é a base de tudo no mundo da computação. É como a estrutura invisível que sustenta cada programa de software, aplicativo ou sistema que utilizamos diariamente. Antes mesmo de escolher uma linguagem de programação ou aprender a escrever código, é essencial entender como estruturar o pensamento de forma lógica para resolver problemas. Em outras palavras, programar não é apenas escrever comandos para um computador, mas sim organizar ideias e sequências de ações de maneira eficiente e coerente.
 
-Se imaginarmos um programa como uma receita de bolo, a lógica de programação seria a organização dos passos para garantir que o resultado final seja o esperado. Se misturarmos os ingredientes na ordem errada ou esquecermos de pré-aquecer o forno, o bolo pode não ficar bom – da mesma forma, um programa sem uma lógica bem estruturada pode não funcionar corretamente. Assim, a lógica de programação nos ajuda a pensar no problema e definir a melhor sequência de ações antes mesmo de começar a codificar.
+Se imaginarmos um programa como uma receita de bolo, a lógica de programação seria a organização dos passos para garantir que o resultado final seja o esperado. Se misturarmos os ingredientes na ordem errada ou esquecermos de pré-aquecer o forno, o bolo pode não ficar bom, da mesma forma, um programa sem uma lógica bem estruturada pode não funcionar corretamente. Assim, a lógica de programação nos ajuda a pensar no problema e definir a melhor sequência de ações antes mesmo de começar a codificar.
 
 Essa forma de raciocínio se baseia em regras e padrões que garantem que as instruções dadas ao computador sejam claras e eficientes. Diferente do pensamento humano, que pode lidar com ambiguidades e improvisações, o computador precisa de instruções precisas e sem margens para interpretação. É por isso que a lógica de programação segue princípios estruturados, que permitem que qualquer problema seja transformado em uma série de passos lógicos para que a máquina possa compreendê-los e executá-los corretamente.
 
@@ -13,7 +13,7 @@ Portanto, antes de entrarmos nos detalhes técnicos e aprofundarmos nos conceito
 
 
 
-                            "A Importância da Lógica de Programação"
+                              "A Importância da Lógica de Programação"
 
 Entender a importância da lógica de programação é como perceber por que precisamos aprender a construir uma casa antes de começar a empilhar tijolos. Sem essa base, qualquer construção pode ficar frágil ou até desmoronar. A lógica é o alicerce do pensamento computacional, é o que permite transformar ideias em ações organizadas, eficientes e compreensíveis para o computador. Quem domina essa base consegue não apenas escrever códigos que funcionam, mas também pensar com clareza e planejar soluções de forma estruturada.
 
@@ -25,7 +25,19 @@ Por fim, estudar lógica de programação desde o início ajuda a evitar frustra
 
 
 
-                                    "Pensamento Computacional"
+                                      "Programa e Programação" 
+
+Quando a gente começa a estudar lógica de programação, dois termos aparecem logo de cara: programa e programação. Eles parecem iguais, mas têm funções diferentes nesse universo. De forma bem simples, o programa é o resultado final, é aquilo que roda, que resolve um problema, que executa uma tarefa. Já a programação é o processo de criação desse programa. Ou seja, é tudo o que você faz para planejar, organizar e escrever o código que vai dar vida a esse programa.
+
+Pense no seguinte: imagine que você quer fazer um bolo. O bolo pronto seria o programa, algo que pode ser usado por qualquer pessoa depois de pronto. Já a programação seria todo o processo de fazer o bolo: escolher os ingredientes, seguir a receita, misturar, assar e decorar. Você pode repetir o processo com pequenas variações, adaptar a receita, mudar sabores, mas tudo começou com a lógica por trás da preparação. Da mesma forma, o programador precisa pensar, planejar e seguir uma "receita lógica" para criar um programa que funcione bem.
+
+A programação é, então, a arte de pensar como o computador. E isso não quer dizer pensar rápido, mas pensar de forma lógica, clara e precisa. Programar é escrever instruções passo a passo para que o computador saiba exatamente o que fazer, em qual ordem, e como reagir a diferentes situações. Tudo isso, usando a lógica como base para construir essas instruções de forma inteligente e funcional.
+
+Já o programa, depois de pronto, se torna uma espécie de produto final, que pode ser reutilizado, compartilhado e executado quantas vezes for necessário. Ele é o reflexo da sua lógica e do seu raciocínio traduzido em código. É por isso que entender a lógica de programação é tão importante: ela te prepara para construir esses programas com clareza, criatividade e eficiência.
+
+
+
+                                     "Pensamento Computacional"
 
 O pensamento computacional é a maneira como organizamos nosso raciocínio para resolver problemas de forma eficiente, utilizando princípios semelhantes aos que os computadores seguem. Ele não é apenas sobre programação, mas sim sobre estruturar ideias de forma lógica e sistemática. Assim como um arquiteto precisa planejar antes de construir, o programador precisa estruturar seu raciocínio antes de escrever código. O pensamento computacional nos ensina a enxergar desafios como quebra-cabeças, onde cada peça precisa ser encaixada de maneira estratégica para formar a solução completa.
 
