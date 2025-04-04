@@ -283,7 +283,7 @@ da lógica de programação, que são os primeiros que você deve dominar.
   colados um ao lado do outro, como "Olá, mundo!" ou "Senha123". As strings são delimitadas por aspas duplas na 
   maioria das linguagens.
 
-   Esse tipo de dado é amplamente utilizado em qualquer programa que envolva texto — desde mostrar mensagens ao 
+   Esse tipo de dado é amplamente utilizado em qualquer programa que envolva texto; desde mostrar mensagens ao 
   usuário até manipular nomes, senhas, endereços e comandos. Trabalhar com strings é essencial para tornar a 
   interação com o usuário mais clara e personalizada, pois boa parte da comunicação com o computador é feita por 
   meio de texto.
@@ -329,31 +329,60 @@ com mais segurança.
 
 
 
-                                      "Variáveis e Constantes"
+                                         "Variáveis e Constantes"
 
-Quando falamos sobre variáveis e constantes, estamos nos referindo a dois conceitos essenciais que ajudam a dar vida e flexibilidade aos programas. Imagine que você tem uma estante cheia de potes rotulados: alguns podem ser abertos e ter seu conteúdo trocado (variáveis), outros são lacrados com o conteúdo fixo (constantes). Esses “potes” são usados para armazenar os valores dos dados básicos que estudamos anteriormente (inteiros, reais, String, entre outros) e são fundamentais para que um programa consiga lidar com informações que mudam ou permanecem fixas ao longo do tempo.
+ Quando falamos sobre variáveis e constantes, estamos nos referindo a dois conceitos essenciais que ajudam a dar 
+vida e flexibilidade aos programas. Imagine que você tem uma estante cheia de potes rotulados: alguns podem ser 
+abertos e ter seu conteúdo trocado (variáveis), outros são lacrados com o conteúdo fixo (constantes). Esses “potes” 
+são usados para armazenar os valores dos dados básicos que estudamos anteriormente (inteiros, reais, String, entre 
+outros) e são fundamentais para que um programa consiga lidar com informações que mudam ou permanecem fixas ao 
+longo do tempo.
 
-A lógica de programação depende da capacidade de armazenar, manipular e proteger dados. É aqui que as variáveis e as constantes entram em cena. Elas são como os nomes que damos às caixinhas onde os dados ficam guardados, e é com esses nomes que conseguimos trabalhar nos nossos códigos.
+ A lógica de programação depende da capacidade de armazenar, manipular e proteger dados. É aqui que as variáveis e 
+as constantes entram em cena. Elas são como os nomes que damos às caixinhas onde os dados ficam guardados, e é com esses nomes que conseguimos trabalhar nos nossos códigos.
 
-Vamos conhecer melhor cada uma dessas formas a seguir.
+ Vamos conhecer melhor cada uma dessas formas a seguir.
 
-Variáveis: As variáveis são como caixinhas rotuladas que podemos abrir, modificar e usar sempre que quisermos. Elas armazenam valores que podem mudar ao longo da execução do programa. Por exemplo, se você tem uma variável chamada idade, ela pode começar com o valor 18, mas depois pode mudar para 19, 20, e assim por diante, conforme o programa vai sendo executado ou conforme os dados do usuário forem sendo inseridos.
+ * Variáveis: As variáveis são como caixinhas rotuladas que podemos abrir, modificar e usar sempre que quisermos. 
+  Elas armazenam valores que podem mudar ao longo da execução do programa. Por exemplo, se você tem uma variável 
+  chamada idade, ela pode começar com o valor 18, mas depois pode mudar para 19, 20, e assim por diante, conforme o 
+  programa vai sendo executado ou conforme os dados do usuário forem sendo inseridos.
 
-Essa capacidade de mudar torna as variáveis extremamente úteis. Elas são usadas para guardar resultados de cálculos, informações fornecidas por quem está usando o programa, contadores de repetições e muito mais. É como se o programa tivesse uma prancheta onde ele anota informações temporárias que pode apagar e escrever de novo sempre que precisar.
+   Essa capacidade de mudar torna as variáveis extremamente úteis. Elas são usadas para guardar resultados de 
+  cálculos, informações fornecidas por quem está usando o programa, contadores de repetições e muito mais. É como 
+  se o programa tivesse uma prancheta onde ele anota informações temporárias que pode apagar e escrever de novo 
+  sempre que precisar.
 
-É importante lembrar que, ao declarar uma variável, precisamos informar que tipo de dado ela vai guardar. Assim como não faz sentido guardar sopa num envelope, também não faz sentido guardar um texto numa variável feita para números. Por isso, entender os tipos básicos de dados ajuda bastante nesse momento. Saber usar variáveis com clareza e consciência é uma das habilidades mais importantes na programação.
+   É importante lembrar que, ao declarar uma variável, precisamos informar que tipo de dado ela vai guardar. Assim 
+  como não faz sentido guardar sopa num envelope, também não faz sentido guardar um texto numa variável feita para 
+  números. Por isso, entender os tipos básicos de dados ajuda bastante nesse momento. Saber usar variáveis com 
+  clareza e consciência é uma das habilidades mais importantes na programação.
 
 
-Constantes: As constantes são como etiquetas coladas em potes lacrados — uma vez que você coloca o valor dentro, não pode mais mudar. Elas são usadas quando precisamos garantir que um valor nunca será alterado durante a execução do programa. Por exemplo, se você tem uma constante chamada PI com o valor 3.1416, esse número não deve ser modificado, pois ele representa uma verdade matemática que não muda.
+ * Constantes: As constantes são como etiquetas coladas em potes lacrados — uma vez que você coloca o valor dentro, 
+  não pode mais mudar. Elas são usadas quando precisamos garantir que um valor nunca será alterado durante a 
+  execução do programa. Por exemplo, se você tem uma constante chamada PI com o valor 3.1416, esse número não deve  
+  ser modificado, pois ele representa uma verdade matemática que não muda.
 
-A utilidade das constantes está justamente na sua imutabilidade. Elas ajudam a evitar erros, principalmente em programas maiores, onde várias partes do código podem tentar alterar um valor importante sem perceber. Usar constantes também melhora a clareza do código, pois ao vermos o nome da constante, já entendemos que aquele valor é fixo, essencial, e não será modificado em momento algum.
+   A utilidade das constantes está justamente na sua imutabilidade. Elas ajudam a evitar erros, principalmente em 
+  programas maiores, onde várias partes do código podem tentar alterar um valor importante sem perceber. Usar 
+  constantes também melhora a clareza do código, pois ao vermos o nome da constante, já entendemos que aquele valor 
+  é fixo, essencial, e não será modificado em momento algum.
 
-Além disso, constantes ajudam a tornar o código mais legível e mais fácil de manter. Em vez de repetir o mesmo número ou texto várias vezes, colocamos em uma constante e usamos seu nome sempre que for necessário. Assim, se um dia o valor precisar ser ajustado (por exemplo, a taxa de um imposto), basta mudar em um único lugar. Isso mostra que constantes não só protegem os valores, mas também organizam o código com inteligência.
+   Além disso, constantes ajudam a tornar o código mais legível e mais fácil de manter. Em vez de repetir o mesmo 
+  número ou texto várias vezes, colocamos em uma constante e usamos seu nome sempre que for necessário. Assim, se 
+  um dia o valor precisar ser ajustado (por exemplo, a taxa de um imposto), basta mudar em um único lugar. Isso 
+  mostra que constantes não só protegem os valores, mas também organizam o código com inteligência.
 
+ Em suma, compreender variáveis e constantes é como aprender a usar bem os recursos da nossa memória enquanto 
+programamos. São ferramentas que nos permitem trabalhar com dados de forma dinâmica ou fixa, sempre de acordo com o 
+que o problema exige. Variáveis nos oferecem flexibilidade, enquanto constantes nos oferecem segurança. Ambas são 
+igualmente valiosas.
 
-Em suma, compreender variáveis e constantes é como aprender a usar bem os recursos da nossa memória enquanto programamos. São ferramentas que nos permitem trabalhar com dados de forma dinâmica ou fixa, sempre de acordo com o que o problema exige. Variáveis nos oferecem flexibilidade, enquanto constantes nos oferecem segurança. Ambas são igualmente valiosas.
-
-À medida que você começa a praticar a programação, perceberá que quase tudo envolve guardar e manipular dados. Por isso, saber quando usar uma variável e quando usar uma constante fará toda a diferença no seu raciocínio lógico e na qualidade do seu código. Elas são, sem dúvida, dois dos pilares mais importantes da construção de qualquer programa.
+ À medida que você começa a praticar a programação, perceberá que quase tudo envolve guardar e manipular dados. Por 
+isso, saber quando usar uma variável e quando usar uma constante fará toda a diferença no seu raciocínio lógico e 
+na qualidade do seu código. Elas são, sem dúvida, dois dos pilares mais importantes da construção de qualquer 
+programa.
 
 
 
