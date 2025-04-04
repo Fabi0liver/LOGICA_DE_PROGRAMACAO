@@ -230,13 +230,25 @@ evolução do software no futuro.
 
                                            "Entrada e Saída"
 
-Quando começamos a construir um programa, logo percebemos que ele precisa conversar com o mundo ao redor. É como se estivéssemos criando uma máquina que não vive isolada, mas que precisa receber informações (entrada) e depois mostrar resultados (saída). Essa troca de informações é o que chamamos de entrada e saída de dados, ou, para os íntimos da programação, input e output.
+ Quando começamos a construir um programa, logo percebemos que ele precisa conversar com o mundo ao redor. É como 
+se estivéssemos criando uma máquina que não vive isolada, mas que precisa receber informações (entrada) e depois 
+mostrar resultados (saída). Essa troca de informações é o que chamamos de entrada e saída de dados, ou, para os 
+íntimos da programação, input e output.
 
-Imagine que você está numa padaria e pede um café com leite. Ao fazer o pedido, você está fornecendo uma entrada. Quando o atendente te entrega o copo com café, ele está te dando uma saída. Em lógica de programação, o processo é bem parecido: o usuário fornece algum dado (como um número ou um nome), o programa processa aquilo e depois devolve um resultado: seja uma mensagem, um cálculo, ou uma resposta mais elaborada.
+ Imagine que você está numa padaria e pede um café com leite. Ao fazer o pedido, você está fornecendo uma entrada. 
+Quando o atendente te entrega o copo com café, ele está te dando uma saída. Em lógica de programação, o processo é 
+bem parecido: o usuário fornece algum dado (como um número ou um nome), o programa processa aquilo e depois devolve 
+um resultado: seja uma mensagem, um cálculo, ou uma resposta mais elaborada.
 
-A entrada geralmente acontece quando usamos comandos que pedem ao usuário alguma informação, como digitar um número ou escolher uma opção. Já a saída é quando mostramos algo na tela, como uma resposta, uma saudação personalizada ou o resultado de um cálculo. Essa interação é essencial, porque transforma o programa em algo dinâmico, adaptável e muito mais útil.
+ A entrada geralmente acontece quando usamos comandos que pedem ao usuário alguma informação, como digitar um 
+número ou escolher uma opção. Já a saída é quando mostramos algo na tela, como uma resposta, uma saudação 
+personalizada ou o resultado de um cálculo. Essa interação é essencial, porque transforma o programa em algo 
+dinâmico, adaptável e muito mais útil.
 
-Aprender a trabalhar bem com entradas e saídas é o primeiro passo para criar programas interativos, aqueles que realmente fazem algo com o que a pessoa digita. Além disso, isso nos prepara para lidar com dados mais complexos no futuro, como formulários de sites, sensores de dispositivos ou respostas de sistemas externos. No fundo, toda boa lógica começa com uma boa conversa entre o programa e quem o utiliza, e essa conversa começa justamente por aqui.
+ Aprender a trabalhar bem com entradas e saídas é o primeiro passo para criar programas interativos, aqueles que 
+realmente fazem algo com o que a pessoa digita. Além disso, isso nos prepara para lidar com dados mais complexos no 
+futuro, como formulários de sites, sensores de dispositivos ou respostas de sistemas externos. No fundo, toda boa 
+lógica começa com uma boa conversa entre o programa e quem o utiliza, e essa conversa começa justamente por aqui.
 
 
 
