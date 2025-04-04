@@ -13,7 +13,19 @@ Portanto, antes de entrarmos nos detalhes técnicos e aprofundarmos nos conceito
 
 
 
-                              "A Importância da Lógica de Programação"
+                              "Lógica Clássica e Lógica de Programação"
+
+Quando falamos em lógica clássica, estamos falando da base do raciocínio formal, algo que vem lá da filosofia, especialmente de Aristóteles. É uma lógica que trabalha com ideias como verdadeiro ou falso, afirmações e negações, deduções e conclusões. Em outras palavras, é o tipo de lógica que usamos no nosso dia a dia para tomar decisões racionais: “Se está chovendo, então vou levar um guarda-chuva”. Essa estrutura “se... então...” é um ótimo exemplo de como a lógica clássica funciona, e olha que ela já está bem próxima do que fazemos na programação.
+
+A lógica de programação, por sua vez, nasce diretamente dessas ideias, mas aplicada ao mundo dos computadores. É como se pegássemos a lógica clássica e ensinássemos a um computador como pensar com ela. Na programação, também usamos condições, operações lógicas e decisões baseadas em verdadeiro ou falso, só que organizadas dentro de algoritmos, estruturas e códigos. Ou seja, a lógica de programação é o braço prático da lógica clássica dentro da tecnologia.
+
+A grande diferença é que, na lógica clássica, usamos o raciocínio para entender o mundo ou resolver problemas humanos. Já na lógica de programação, usamos esse mesmo raciocínio para dizer ao computador exatamente o que ele deve fazer. Por isso, quem entende bem a lógica clássica tem mais facilidade em programar, porque já está acostumado a pensar de forma estruturada e racional. É como se você aprendesse primeiro a construir frases corretas e depois usasse isso para escrever textos incríveis, um passo natural leva ao outro.
+
+Em resumo, a lógica clássica fornece as ferramentas de pensamento, e a lógica de programação transforma essas ferramentas em ação. Saber diferenciar e relacionar essas duas é fundamental para se tornar um bom programador, porque te ajuda a construir códigos mais claros, objetivos e inteligentes. No fundo, programar é transformar o pensamento lógico em linguagem que o computador compreende, e tudo começa com uma boa base de lógica.
+
+
+
+                                "A Importância da Lógica de Programação"
 
 Entender a importância da lógica de programação é como perceber por que precisamos aprender a construir uma casa antes de começar a empilhar tijolos. Sem essa base, qualquer construção pode ficar frágil ou até desmoronar. A lógica é o alicerce do pensamento computacional, é o que permite transformar ideias em ações organizadas, eficientes e compreensíveis para o computador. Quem domina essa base consegue não apenas escrever códigos que funcionam, mas também pensar com clareza e planejar soluções de forma estruturada.
 
