@@ -687,7 +687,8 @@ de programar mais profissional, inteligente e produtivo.
 rascunho feito a lápis para um projeto bem arquitetado. Aprender sobre esses conceitos é como montar uma maleta de 
 ferramentas essenciais para qualquer programador que deseja ir além do básico.
 
- A seguir, vamos explorar alguns um deles com carinho, para que você entenda o que são, para que servem e como podem transformar a forma como você cria seus programas.
+ A seguir, vamos explorar alguns um deles com carinho, para que você entenda o que são, para que servem e como
+podem transformar a forma como você cria seus programas.
 
  Recursão: Recursão é quando uma função chama a si mesma para resolver um problema. Parece estranho à primeira 
             vista, mas é como olhar para um espelho que reflete outro espelho, o resultado vai se repetindo até 
