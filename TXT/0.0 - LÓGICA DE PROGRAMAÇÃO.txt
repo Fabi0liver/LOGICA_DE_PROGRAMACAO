@@ -737,7 +737,8 @@ Esses conceitos extras são o que diferenciam um simples código de um projeto b
 entre uma casa improvisada e uma casa bem planejada com fundações firmes, boas instalações e espaço para crescer.
 
  E o mais bonito de tudo é que esse conhecimento se constrói aos poucos, com curiosidade, prática e o desejo de 
-entender não só o “como”, mas também o “por quê”. Cada conceito aprendido é como uma peça a mais no seu kit de ]ferramentas, e quanto mais você usa, mais natural tudo se torna. 
+entender não só o “como”, mas também o “por quê”. Cada conceito aprendido é como uma peça a mais no seu kit de 
+ferramentas, e quanto mais você usa, mais natural tudo se torna. 
 
 
 
