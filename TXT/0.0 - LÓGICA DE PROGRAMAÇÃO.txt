@@ -339,7 +339,8 @@ outros) e são fundamentais para que um programa consiga lidar com informações
 longo do tempo.
 
  A lógica de programação depende da capacidade de armazenar, manipular e proteger dados. É aqui que as variáveis e 
-as constantes entram em cena. Elas são como os nomes que damos às caixinhas onde os dados ficam guardados, e é com esses nomes que conseguimos trabalhar nos nossos códigos.
+as constantes entram em cena. Elas são como os nomes que damos às caixinhas onde os dados ficam guardados, e é com
+esses nomes que conseguimos trabalhar nos nossos códigos.
 
  Vamos conhecer melhor cada uma dessas formas a seguir.
 
