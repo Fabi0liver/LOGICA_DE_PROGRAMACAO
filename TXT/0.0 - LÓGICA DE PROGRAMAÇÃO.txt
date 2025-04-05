@@ -817,7 +817,8 @@ escolhido.
 problemas complexos em partes menores e a encontrar soluções eficientes. Essa habilidade vai além da programação e 
 pode ser aplicada em diversas áreas da vida e do trabalho. O pensamento lógico é essencial em carreiras como 
 ciência de dados, inteligência artificial, desenvolvimento de software e até mesmo na automação de processos do dia 
-a dia. No futuro, conforme a tecnologia evoluí, a capacidade de programar (ou pelo menos compreender a lógica por trás da programação) será um diferencial cada vez mais valioso.
+a dia. No futuro, conforme a tecnologia evoluí, a capacidade de programar (ou pelo menos compreender a lógica por 
+trás da programação) será um diferencial cada vez mais valioso.
 
  Olhando para frente, vemos um mundo onde a programação se torna cada vez mais acessível e integrada ao nosso 
 cotidiano. Com o avanço da inteligência artificial, da automação e da computação em nuvem, a lógica de programação 
