@@ -519,7 +519,8 @@ cada um deles é uma habilidade essencial para pensar como programador e criar s
                                        "Estruturas de Controle"
 
  Quando escrevemos um programa, não queremos apenas executar uma lista de instruções do começo ao fim, como uma 
-receita engessada. Em muitos casos, precisamos tomar decisões, repetir ações ou até mudar o rumo do que está sendo feito, dependendo de certas condições. Para permitir esse comportamento mais inteligente e dinâmico nos programas, 
+receita engessada. Em muitos casos, precisamos tomar decisões, repetir ações ou até mudar o rumo do que está sendo 
+feito, dependendo de certas condições. Para permitir esse comportamento mais inteligente e dinâmico nos programas, 
 usamos as estruturas de controle.
 
  Elas são como os sinais de trânsito da lógica de programação: indicam quando seguir em frente, quando virar à 
