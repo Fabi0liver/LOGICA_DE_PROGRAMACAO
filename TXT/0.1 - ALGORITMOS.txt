@@ -1,4 +1,4 @@
-                                              ALGORITMOS
+                                               ALGORITMOS
 
 Quando ouvimos a palavra “algoritmo”, ela pode soar meio técnica, distante, até um pouco intimidadora. Mas, na verdade, algoritmos estão muito mais perto do nosso cotidiano do que imaginamos. Eles são como aquelas listas de instruções que seguimos sem perceber — seja para preparar uma receita de bolo, montar um móvel ou até organizar nossa rotina da manhã. Em essência, um algoritmo nada mais é do que uma sequência de passos bem definidos para resolver um problema ou realizar uma tarefa.
 
@@ -9,3 +9,17 @@ Na computação, os algoritmos são usados para guiar as máquinas em suas taref
 O que torna um algoritmo especial é justamente a sua clareza e organização. Ele precisa dizer exatamente o que fazer, em qual ordem fazer, e quando parar. Não pode ter dúvidas nem deixar espaço para improviso, é como uma receita que precisa ser seguida à risca para o prato dar certo. Essa estrutura organizada permite que os computadores entendam e executem os algoritmos de forma precisa, sem se perder no meio do caminho.
 
 Portanto, podemos entender o algoritmo como o coração da lógica computacional. É através dele que transformamos ideias em ações executáveis, problemas em soluções. E o mais bonito disso tudo é perceber que, por trás de toda a tecnologia moderna, existe algo profundamente humano: a capacidade de planejar, organizar e resolver situações por meio de passos bem pensados. Aprender sobre algoritmos, então, é também aprender a pensar de forma mais clara, lógica e criativa.
+
+
+
+                                     "Algoritmo, Programa e Código"
+
+Quando a gente começa a mergulhar no universo da computação, é comum confundir alguns termos que, apesar de estarem bem próximos, não são exatamente a mesma coisa. Três palavrinhas que vivem andando juntas são: algoritmo, código e programa. Todas fazem parte do mesmo “mundo”, mas representam etapas diferentes dentro da criação de soluções para problemas. Entender como elas se encaixam é como entender as peças de um quebra-cabeça — e tudo começa pelo algoritmo.
+
+O algoritmo é a ideia por trás da solução. Ele é o plano, o raciocínio lógico que organiza os passos necessários para resolver um problema. Imagine que você quer ensinar alguém a fazer um café. O algoritmo seria a lista de instruções: ferver a água, colocar o pó no filtro, despejar a água, esperar coar. Perceba que aqui ainda não usamos nenhuma linguagem específica — estamos só organizando o pensamento de forma clara e ordenada.
+
+O código, por sua vez, é a forma escrita desse algoritmo em uma linguagem que o computador consiga entender. É como se você pegasse a receita de café e escrevesse tudo de forma precisa, linha por linha, usando uma linguagem como Python, Java ou C++. O código é, portanto, a tradução do nosso plano lógico para uma linguagem formal. Ele dá instruções claras para o computador seguir, sem espaço para dúvidas ou improvisos.
+
+Já o programa é o resultado final: o conjunto completo de códigos organizados e prontos para serem executados por uma máquina. É como transformar a receita e o passo a passo em uma cafeteira elétrica: você aperta um botão e ela faz tudo sozinha. O programa inclui o código, mas também envolve outros componentes que fazem a aplicação funcionar de ponta a ponta, como arquivos auxiliares, interfaces, estruturas de controle, e por aí vai. Ele é o produto final, já embalado e pronto para ser usado.
+
+Entender a diferença entre algoritmo, código e programa é como conhecer os bastidores de uma peça de teatro: o algoritmo é o roteiro bem pensado, o código é o script escrito na linguagem dos atores, e o programa é o espetáculo completo acontecendo no palco. Cada um tem seu papel único, mas todos trabalham juntos para transformar uma ideia em algo funcional e real. Ao reconhecer essa relação, começamos a enxergar a computação de forma mais clara e estruturada, o que torna a jornada de aprendizado muito mais leve e interessante. E o melhor: agora que você entende essa base, está mais preparado para seguir com segurança para os próximos passos no mundo dos algoritmos!
