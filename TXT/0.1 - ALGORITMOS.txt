@@ -38,7 +38,7 @@ Entender a diferença entre algoritmo, código e programa é como conhecer os ba
 
 
 
-                         "Características Fundamentais dos Algoritmos"
+                           "Características Fundamentais dos Algoritmos"
 
 Quando começamos a estudar algoritmos com mais atenção, percebemos que eles não são apenas listas de passos jogados ao acaso. Existe uma espécie de "receita ideal" que os bons algoritmos seguem, e isso não acontece por acaso. Essas regras ajudam a garantir que o algoritmo seja compreensível, confiável e funcional, tanto para quem o escreve quanto para quem (ou o que) o executa. E no universo da computação, onde a precisão é essencial, seguir essas diretrizes faz toda a diferença.
 
@@ -67,4 +67,41 @@ A seguir, vamos conhecer cada uma dessas características com calma, entendendo 
 Em suma, compreender as características fundamentais de um algoritmo é como aprender os fundamentos de uma boa construção: antes de levantar paredes ou instalar janelas, é essencial ter uma base sólida. Esses princípios não são apenas “teóricos”, mas práticos — eles ajudam a criar algoritmos mais funcionais, organizados e preparados para lidar com diferentes situações do mundo real.
 
 Mais do que seguir regras, entender essas características nos convida a pensar com mais cuidado sobre as soluções que propomos. Afinal, algoritmos bem planejados não resolvem apenas problemas técnicos: eles tornam nosso pensamento mais claro, estruturado e eficaz. E quanto mais dominamos essas bases, mais criativos e confiantes nos tornamos na arte de programar soluções inteligentes.
+
+
+
+                                 "As Formas de Representar Algoritmos"
+
+Antes de um algoritmo ser transformado em código executável por um computador, ele precisa ser representado de alguma forma. Essa representação pode variar dependendo do objetivo: às vezes queremos que fique fácil para outra pessoa entender, outras vezes queremos simular o funcionamento de uma ideia, e em alguns casos, já estamos prontos para partir direto para a implementação. Em todos esses momentos, ter diferentes formas de expressar o algoritmo nos ajuda a comunicar melhor a lógica por trás da solução.
+
+Pense nisso como planejar a montagem de um móvel. Você pode escrever um passo a passo em palavras, desenhar um esquema visual ou seguir um manual detalhado com instruções técnicas. O móvel é o mesmo no final, mas a forma como você representou as instruções pode fazer toda a diferença na clareza, no entendimento e na execução. Com algoritmos, é a mesma coisa, e por isso temos várias formas de representá-los.
+
+ Linguagem Natural: É a forma mais simples de representar um algoritmo, usamos frases comuns do nosso dia a dia para descrever os passos. Por exemplo: “Pegue dois números, some-os e mostre o resultado.” É ideal para rascunhos ou quando estamos explicando para quem ainda não está familiarizado com termos técnicos. Porém, por ser mais informal, pode gerar ambiguidades.
+
+
+ Pseudocódigo: O pseudocódigo é como um meio-termo entre a linguagem natural e uma linguagem de programação real. Ele segue uma estrutura lógica parecida com a da programação, mas sem a rigidez de uma linguagem formal. 
+
+Por exemplo:
+
+            início  
+              ler A, B  
+              soma ← A + B  
+              exibir soma  
+            fim
+
+Ele é ótimo para planejar a lógica de um algoritmo de forma clara e organizada, sem se preocupar com a sintaxe exata da linguagem que será usada depois.
+
+
+ Fluxograma: O fluxograma é uma representação visual do algoritmo. Ele usa símbolos gráficos (como retângulos, losangos e setas) para mostrar o fluxo das ações. É excelente para quem aprende melhor com imagens ou quer entender o “caminho” que os dados percorrem. Um losango representa uma decisão (“sim ou não”), um retângulo mostra uma ação, e assim por diante. É como desenhar um mapa do raciocínio.
+
+
+ Código em Linguagem de Programação: Por fim, temos a representação mais próxima da realidade computacional: escrever o algoritmo diretamente em uma linguagem de programação, como Python, C ou Java. Essa forma é a única que pode ser executada diretamente por um computador. Porém, por exigir mais atenção à sintaxe e regras da linguagem, ela costuma ser usada depois que o algoritmo já está bem planejado nas etapas anteriores.
+
+
+Em suma, cada forma de representação tem sua utilidade, e não existe uma "melhor" que funcione sempre. Em geral, usamos várias delas ao longo do desenvolvimento: começamos com uma descrição em linguagem natural, estruturamos em pseudocódigo, validamos com fluxogramas e, por fim, implementamos em código. Essa diversidade de ferramentas nos ajuda a pensar melhor, comunicar com mais clareza e, principalmente, resolver problemas com mais segurança.
+
+Ao dominar essas formas de representar algoritmos, você amplia seu repertório como solucionador de problemas. Isso permite que você escolha a melhor estratégia de expressão para cada situação, seja explicando uma ideia para um colega, validando um raciocínio sozinho ou escrevendo uma solução final em um programa. Representar bem é, também, uma forma de pensar melhor.
+
+
+
 
