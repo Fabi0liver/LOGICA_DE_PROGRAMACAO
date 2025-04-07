@@ -35,3 +35,36 @@ O código, por sua vez, é a forma escrita desse algoritmo em uma linguagem que 
 Já o programa é o resultado final, o conjunto completo de códigos organizados e prontos para serem executados por uma máquina. É como transformar a receita e o passo a passo em uma cafeteira elétrica: você aperta um botão e ela faz tudo sozinha. O programa inclui o código, mas também envolve outros componentes que fazem a aplicação funcionar de ponta a ponta, como arquivos auxiliares, interfaces, estruturas de controle, e por aí vai. Ele é o produto final, já embalado e pronto para ser usado.
 
 Entender a diferença entre algoritmo, código e programa é como conhecer os bastidores de uma peça de teatro: o algoritmo é o roteiro bem pensado, o código é o script escrito na linguagem dos atores, e o programa é o espetáculo completo acontecendo no palco. Cada um tem seu papel único, mas todos trabalham juntos para transformar uma ideia em algo funcional e real. Ao reconhecer essa relação, começamos a enxergar a computação de forma mais clara e estruturada, o que torna a jornada de aprendizado muito mais leve e interessante. E o melhor: agora que você entende essa base, está mais preparado para seguir com segurança para os próximos passos no mundo dos algoritmos!
+
+
+
+                         "Características Fundamentais dos Algoritmos"
+
+Quando começamos a estudar algoritmos com mais atenção, percebemos que eles não são apenas listas de passos jogados ao acaso. Existe uma espécie de "receita ideal" que os bons algoritmos seguem, e isso não acontece por acaso. Essas regras ajudam a garantir que o algoritmo seja compreensível, confiável e funcional, tanto para quem o escreve quanto para quem (ou o que) o executa. E no universo da computação, onde a precisão é essencial, seguir essas diretrizes faz toda a diferença.
+
+Essas diretrizes são chamadas de características fundamentais de um algoritmo. Elas servem como uma espécie de checklist que ajuda a analisar se o algoritmo está bem construído, ou se ele precisa ser ajustado para funcionar corretamente em diferentes contextos. 
+
+A seguir, vamos conhecer cada uma dessas características com calma, entendendo sua importância e seu papel na construção de algoritmos mais eficientes e claros.
+
+ Entrada: A entrada representa os dados iniciais que o algoritmo precisa receber para começar seu trabalho. É como entregar os ingredientes antes de preparar uma receita. Sem esses dados, não há como executar as etapas seguintes. Em termos computacionais, entradas podem ser números digitados, arquivos lidos ou informações vindas de sensores, por exemplo.
+
+ Processamento: É a parte onde a mágica acontece: o processamento pega os dados de entrada e realiza todas as operações necessárias para chegar a um resultado. Pense nisso como o momento em que você mistura os ingredientes e os coloca para assar. O processamento é o “coração” do algoritmo, onde ele transforma dados brutos em informações úteis.
+
+ Saída: A saída é o resultado final produzido pelo algoritmo após o processamento. Pode ser um número, uma mensagem, uma imagem ou qualquer outro tipo de informação útil. Se a entrada são os ingredientes e o processamento é o preparo, a saída é o prato pronto sendo servido.
+
+ Finitude: Todo algoritmo precisa ter um fim — e um fim bem definido. Ele não pode ficar rodando para sempre sem concluir sua tarefa. A finitude garante que, após um número determinado de passos, o algoritmo entregará um resultado e encerrará sua execução. É como saber que a receita termina com o bolo assado e pronto para ser servido.
+
+ Precisão: Cada passo do algoritmo precisa ser claro e sem ambiguidades. Um computador não tem intuição, ele só entende instruções objetivas. Se o algoritmo disser “faça isso até ficar bom”, ele não vai saber o que é “bom”. Por isso, a precisão é essencial: tudo precisa ser definido com exatidão.
+
+ Efetividade: A efetividade garante que cada passo do algoritmo seja executável de fato. Isso significa que não adianta incluir etapas que são teoricamente bonitas, mas impossíveis de realizar na prática. É como pedir para “voar até a padaria”, parece engraçado, mas não é algo viável.
+
+ Generalidade: Um bom algoritmo deve funcionar em diferentes situações dentro de um mesmo tipo de problema. Por exemplo, um algoritmo para calcular a média de notas deve servir tanto para 3 quanto para 10 notas. Isso torna o algoritmo mais flexível e útil em vários contextos, não limitado a um único caso específico.
+
+ Modularidade: Modularidade é a capacidade de dividir o algoritmo em partes menores, chamadas de sub algoritmos ou módulos, que resolvem pedaços específicos do problema. Isso facilita o entendimento, a manutenção e até o reuso de trechos do algoritmo. É como separar a receita em etapas: preparar a massa, rechear, assar.
+
+ Legibilidade (ou Clareza): Um algoritmo não deve ser compreensível apenas para o computador, mas também para seres humanos, especialmente os que vão ler ou revisar aquele código no futuro. Um algoritmo claro, bem organizado e escrito com atenção à legibilidade facilita o trabalho em equipe e evita erros desnecessários.
+
+Em suma, compreender as características fundamentais de um algoritmo é como aprender os fundamentos de uma boa construção: antes de levantar paredes ou instalar janelas, é essencial ter uma base sólida. Esses princípios não são apenas “teóricos”, mas práticos — eles ajudam a criar algoritmos mais funcionais, organizados e preparados para lidar com diferentes situações do mundo real.
+
+Mais do que seguir regras, entender essas características nos convida a pensar com mais cuidado sobre as soluções que propomos. Afinal, algoritmos bem planejados não resolvem apenas problemas técnicos: eles tornam nosso pensamento mais claro, estruturado e eficaz. E quanto mais dominamos essas bases, mais criativos e confiantes nos tornamos na arte de programar soluções inteligentes.
+
