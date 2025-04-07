@@ -12,6 +12,18 @@ Portanto, podemos entender o algoritmo como o coração da lógica computacional
 
 
 
+                                      "Algoritmo Computacional"
+
+Se todo algoritmo é uma sequência lógica de passos para resolver um problema, o algoritmo computacional é essa mesma ideia aplicada especificamente no contexto dos computadores. Ele é o roteiro que guia a máquina sobre o que fazer, como fazer e em que ordem fazer. Mas diferente de quando explicamos algo para uma pessoa, que pode “entender no improviso”, o computador precisa de instruções absolutamente claras, detalhadas e sem ambiguidades. Afinal, ele não interpreta entrelinhas, ele segue exatamente o que foi mandado.
+
+Um algoritmo computacional, então, é escrito pensando em como o computador irá processar cada passo. Por isso, ele precisa estar adaptado ao funcionamento da máquina, respeitando sua linguagem, suas limitações e sua lógica de operação. É como se você estivesse dando instruções a um robô: você não pode apenas dizer “faça um café”. É necessário dizer cada micro ação, desde pegar a xícara até apertar o botão da cafeteira, com todos os detalhes, na ordem certa. E se esquecer de algum passo, o robô simplesmente trava ou faz algo inesperado.
+
+Outro ponto importante é que o algoritmo computacional serve de base para a construção de programas e softwares. Ele é como o “esqueleto lógico” que será depois transformado em código, com o uso de linguagens de programação. Essa lógica pode ser representada de várias formas, desde um simples rascunho com palavras até diagramas ou pseudocódigos. O mais importante é que ele traduza o raciocínio de forma clara e exata para que possa ser transformado em código sem erros.
+
+Por isso, entender o que é um algoritmo computacional é como aprender a conversar com o computador de forma eficaz. É a ponte entre o nosso pensamento humano e a linguagem da máquina. E quanto mais bem estruturado esse algoritmo estiver, mais fácil será transformá-lo em um código eficiente e funcional. Aprender a criar bons algoritmos computacionais é, sem dúvida, um passo essencial para quem deseja programar com clareza, segurança e criatividade.
+
+
+
                                      "Algoritmo, Programa e Código"
 
 Quando a gente começa a mergulhar no universo da computação, é comum confundir alguns termos que, apesar de estarem bem próximos, não são exatamente a mesma coisa. Três palavrinhas que vivem andando juntas são: algoritmo, código e programa. Todas fazem parte do mesmo “mundo”, mas representam etapas diferentes dentro da criação de soluções para problemas. Entender como elas se encaixam é como entender as peças de um quebra-cabeça, e tudo começa pelo algoritmo.
