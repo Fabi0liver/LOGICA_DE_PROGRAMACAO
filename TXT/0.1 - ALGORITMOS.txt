@@ -106,9 +106,6 @@ Ao dominar essas formas de representar algoritmos, você amplia seu repertório 
 
 
 
-
-
-
                               "O Processo de Desenvolvimento de Algoritmos"
 
 Desenvolver um algoritmo não é apenas escrever passos em sequência, é um processo de raciocínio estruturado, que parte da análise de um problema até a criação de uma solução lógica, clara e eficiente. Em outras palavras, quando falamos sobre o desenvolvimento de algoritmos, estamos tratando da jornada que transforma uma ideia ou necessidade em algo concreto, que pode ser executado por uma máquina e compreendido por pessoas.
@@ -164,10 +161,52 @@ A seguir, vamos conhecer os principais tipos de algoritmos usados na prática, e
 
  Algoritmos de Machine Learning: Esses algoritmos fazem parte da inteligência artificial e são capazes de “aprender” com dados para fazer previsões ou tomar decisões. Ao invés de seguir um caminho fixo, eles são ajustados com base em exemplos. Isso os torna ideais para tarefas como recomendação de filmes, reconhecimento de voz, diagnósticos médicos e muito mais.
 
-
 Em suma, conhecer os diferentes tipos de algoritmos é como ampliar o seu repertório de soluções. Cada tipo tem sua lógica, seus pontos fortes e suas melhores aplicações. Ao entender como cada um funciona, você passa a enxergar os problemas com mais clareza e a escolher ferramentas mais adequadas e eficientes para resolvê-los.
 
 O mais interessante é que esses tipos não são caixas fechadas — muitas vezes, eles se combinam em um mesmo programa. Um algoritmo pode ser recursivo e de busca, por exemplo. Por isso, aprender sobre essas variações não só enriquece sua base de conhecimento, como também fortalece sua criatividade e autonomia como desenvolvedor ou entusiasta da computação. Continue explorando, com curiosidade e calma, porque cada tipo de algoritmo é uma nova janela de possibilidades para resolver o mundo com lógica.
+
+
+
+                                              "Análise de Algoritmos"
+
+Imagine que você precisa escolher entre dois caminhos para chegar até um destino. Um deles é mais curto, mas tem muitos semáforos. O outro é mais longo, porém com fluxo mais livre. Ambos te levam até onde você quer, mas um pode ser mais eficiente dependendo da situação. É exatamente essa comparação que fazemos quando falamos em analisar algoritmos: entre duas ou mais soluções corretas, qual é a mais rápida, a que consome menos recursos, ou a que escala melhor com problemas maiores?
+
+A análise de algoritmos é como uma lupa que usamos para observar o comportamento dos nossos programas diante de diferentes tamanhos de entrada. Não basta que um algoritmo apenas resolva um problema , ele precisa resolver bem. E para entender o que é “bem”, precisamos de ferramentas que nos ajudem a medir e comparar desempenho, prever o comportamento futuro, e identificar gargalos. 
+
+Agora que você já está com a lupa na mão, vamos conhecer as dimensões que ela nos permite enxergar.
+
+ Complexidade de Tempo: A complexidade de tempo nos mostra quanto tempo um algoritmo leva para ser executado, em relação ao tamanho da entrada. Por exemplo, se você estiver buscando um número em uma lista com 10 elementos, isso será mais rápido do que se a lista tiver 1 milhão de elementos. Ao analisar a complexidade de tempo, queremos prever esse crescimento e entender: será que meu algoritmo continua sendo viável quando os dados aumentam?
+
+Uma boa analogia é pensar em filas de supermercado: um caixa que atende uma pessoa por minuto pode parecer rápido quando há três pessoas na fila, mas se surgirem cem clientes, a diferença entre esse caixa e um sistema de autoatendimento pode se tornar gritante. A análise da complexidade de tempo te ajuda a fazer essa previsão antes que o “supermercado digital” encha demais.
+
+
+ Complexidade de Espaço: A complexidade de espaço, por sua vez, nos mostra quanta memória o algoritmo precisa usar enquanto está em execução. Às vezes, um algoritmo é rápido, mas consome muita memória para manter seus dados temporários. E isso pode ser um problema, principalmente em dispositivos com pouca capacidade, como smartphones ou sistemas embarcados.
+
+Imagine que você está tentando organizar sua mochila para uma viagem. Um método mais rápido pode exigir que você leve muitos itens extras para facilitar o trajeto, enquanto outro pode ser mais lento, mas exige menos volume. A complexidade de espaço mede esse “volume” de informações que o algoritmo precisa carregar consigo.
+
+
+ Complexidade de Energia: Em dispositivos móveis, sensores IoT e sistemas embarcados, um dos recursos mais limitados é a energia. Nesses cenários, não basta que um algoritmo seja rápido ou que use pouca memória — ele também precisa ser econômico no consumo de bateria.
+
+Aqui, a ideia é analisar quantas operações o algoritmo executa, quantas escritas e leituras ele faz na memória (que consomem muita energia), e até como ele se comporta em períodos de inatividade. Essa dimensão é cada vez mais importante na era dos dispositivos inteligentes e sustentáveis.
+
+
+ Complexidade de Segurança: Sim, até segurança pode ser vista como uma dimensão de análise de algoritmos — especialmente nos campos de criptografia, privacidade e segurança de sistemas. Um algoritmo pode ser rápido e eficiente, mas se for fácil de ser explorado por um invasor, ele falha em um critério crítico.
+
+Nesse caso, analisamos coisas como: quão difícil é quebrar o algoritmo? Quanto tempo um ataque levaria? Quanta informação pode ser inferida a partir da saída? Essas perguntas fazem parte da análise da robustez do algoritmo do ponto de vista da segurança.
+
+
+ Notações Assintóticas: Para representar a complexidade de forma padronizada e comparável, usamos as chamadas notações assintóticas, que descrevem o comportamento de um algoritmo quando o tamanho da entrada cresce muito. São como formas de prever o “pior cenário” (Big-O), o “melhor cenário” (Big-Omega) e o “comportamento típico” (Big-Theta).
+
+Pense nessas notações como se fossem previsões do tempo: o Big-O diz “leve guarda-chuva, pode chover muito” (ou seja, qual o tempo máximo que o algoritmo pode levar); o Big-Omega diz “em um dia ideal, pode fazer sol o tempo todo” (tempo mínimo); e o Big-Theta diz “em média, espere dias nublados com alguns períodos de sol” (o caso mais comum). Elas nos ajudam a comunicar e prever a performance do algoritmo de forma clara e universal.
+
+
+Melhor Caso, Pior Caso e Caso Médio: Outro ponto importante na análise é entender que um algoritmo pode ter comportamentos diferentes dependendo da situação. O melhor caso é quando tudo acontece da forma mais favorável possível. O pior caso é quando a execução exige o máximo de esforço. E o caso médio considera a média de execuções em cenários variados.
+
+Por exemplo, ao procurar seu nome em uma lista de chamada: se ele for o primeiro da lista (melhor caso), ótimo! Se for o último (pior caso), o algoritmo vai percorrer toda a lista. E na média, vai encontrar seu nome em alguma posição intermediária. Saber avaliar essas variações é essencial para prever o desempenho real em situações do mundo real.
+
+Em suma, a análise de algoritmos é um daqueles momentos em que o raciocínio lógico se encontra com o pensamento estratégico. É onde deixamos de ver o algoritmo apenas como uma receita funcional e começamos a enxergá-lo como uma solução inteligente, ajustada e eficiente. E essa capacidade de comparar soluções e escolher a melhor não é apenas técnica, é um verdadeiro superpoder na mão de quem programa.
+
+Com o tempo e a prática, você perceberá que entender a performance de um algoritmo vai muito além de fórmulas ou gráficos. É sobre tomar decisões melhores, antecipar problemas e criar soluções que não apenas funcionem, mas que funcionem bem  hoje, amanhã, e quando o desafio crescer. E isso, para quem está trilhando o caminho da ciência da computação, é um passo lindo rumo à maturidade técnica.
 
 
 
