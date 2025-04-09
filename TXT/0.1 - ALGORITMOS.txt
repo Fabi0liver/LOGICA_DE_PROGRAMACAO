@@ -32,13 +32,29 @@ lógica e criativa.
 
                                       "Algoritmo Computacional"
 
-Depois de entender o que é um algoritmo de forma geral, vale a pena dar um passo adiante e olhar para ele dentro do contexto da computação. Quando falamos em algoritmo computacional, estamos nos referindo a um conjunto de passos organizados que podem ser seguidos por um processador (o “cérebro” da máquina) e, em alguns casos, também por quem está operando o sistema. Esses passos, quando executados na ordem correta, permitem que o computador realize uma tarefa específica com precisão, do jeito que foi planejado.
+ Depois de entender o que é um algoritmo de forma geral, vale a pena dar um passo adiante e olhar para ele dentro 
+do contexto da computação. Quando falamos em algoritmo computacional, estamos nos referindo a um conjunto de passos 
+organizados que podem ser seguidos por um processador (o “cérebro” da máquina) e, em alguns casos, também por quem 
+está operando o sistema. Esses passos, quando executados na ordem correta, permitem que o computador realize uma 
+tarefa específica com precisão, do jeito que foi planejado.
 
-A grande diferença entre o algoritmo comum (como escovar os dentes ou fazer um bolo) e o algoritmo computacional é que, neste segundo caso, quem vai executar as instruções principais não é uma pessoa, mas uma máquina. Por isso, os passos precisam ser ainda mais claros, objetivos e livres de ambiguidade. O computador não “interpreta” como nós, ele só faz exatamente o que lhe for mandado, da maneira como for mandado. Se faltar um detalhe, ele não vai “adivinhar”. Isso exige que o algoritmo computacional seja muito bem pensado e organizado.
+ A grande diferença entre o algoritmo comum (como escovar os dentes ou fazer um bolo) e o algoritmo computacional é 
+que, neste segundo caso, quem vai executar as instruções principais não é uma pessoa, mas uma máquina. Por isso, os 
+passos precisam ser ainda mais claros, objetivos e livres de ambiguidade. O computador não “interpreta” como nós, 
+ele só faz exatamente o que lhe for mandado, da maneira como for mandado. Se faltar um detalhe, ele não vai 
+“adivinhar”. Isso exige que o algoritmo computacional seja muito bem pensado e organizado.
 
-Imagine, por exemplo, que você queira criar um aplicativo que calcule a média das notas de um aluno. O algoritmo computacional para essa tarefa precisa considerar cada passo: pedir as notas ao usuário, somar os valores, dividir pelo número de provas e mostrar o resultado. Esses passos são transformados em instruções que o processador executa, uma a uma, como se fosse uma linha de montagem. Tudo isso precisa estar perfeitamente alinhado, ou o resultado final pode sair errado, ou nem sair.
+ Imagine, por exemplo, que você queira criar um aplicativo que calcule a média das notas de um aluno. O algoritmo 
+computacional para essa tarefa precisa considerar cada passo: pedir as notas ao usuário, somar os valores, dividir 
+pelo número de provas e mostrar o resultado. Esses passos são transformados em instruções que o processador 
+executa, uma a uma, como se fosse uma linha de montagem. Tudo isso precisa estar perfeitamente alinhado, ou o 
+resultado final pode sair errado, ou nem sair.
 
-Por isso, podemos dizer que o algoritmo computacional é a ponte entre o problema que queremos resolver e o funcionamento da máquina que vai nos ajudar. Ele organiza a lógica necessária para transformar dados de entrada em resultados de saída, orientando o processador como agir. E o mais interessante: ao dominar esse tipo de algoritmo, a gente começa a pensar de forma mais estruturada, como quem constrói soluções com peças de um quebra-cabeça, peça por peça, até formar algo completo e funcional.
+ Por isso, podemos dizer que o algoritmo computacional é a ponte entre o problema que queremos resolver e o 
+funcionamento da máquina que vai nos ajudar. Ele organiza a lógica necessária para transformar dados de entrada em 
+resultados de saída, orientando o processador como agir. E o mais interessante: ao dominar esse tipo de algoritmo, 
+a gente começa a pensar de forma mais estruturada, como quem constrói soluções com peças de um quebra-cabeça, peça 
+por peça, até formar algo completo e funcional.
 
 
 
