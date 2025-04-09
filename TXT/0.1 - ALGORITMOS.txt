@@ -309,8 +309,8 @@ situações são mais indicados.
   sofisticados, como a busca binária, usam estratégias mais inteligentes para reduzir o número de passos. São 
   amplamente usados em bancos de dados, sistemas de arquivos e pesquisas em geral.
 
- - Algoritmos de Ordenação: Quando precisamos organizar dados em uma certa ordem — como colocar nomes em ordem 
-  alfabética ou números do menor para o maior — recorremos aos algoritmos de ordenação. Existem vários, como o 
+ - Algoritmos de Ordenação: Quando precisamos organizar dados em uma certa ordem (como colocar nomes em ordem 
+  alfabética ou números do menor para o maior) recorremos aos algoritmos de ordenação. Existem vários, como o 
   Bubble Sort, Merge Sort ou Quick Sort, cada um com suas vantagens dependendo do volume e da organização inicial 
   dos dados. Eles são a base para vários outros algoritmos mais complexos.
 
@@ -338,11 +338,11 @@ situações são mais indicados.
 lógica, seus pontos fortes e suas melhores aplicações. Ao entender como cada um funciona, você passa a enxergar os 
 problemas com mais clareza e a escolher ferramentas mais adequadas e eficientes para resolvê-los.
 
- O mais interessante é que esses tipos não são caixas fechadas — muitas vezes, eles se combinam em um mesmo 
-programa. Um algoritmo pode ser recursivo e de busca, por exemplo. Por isso, aprender sobre essas variações não só 
-enriquece sua base de conhecimento, como também fortalece sua criatividade e autonomia como desenvolvedor ou 
-entusiasta da computação. Continue explorando, com curiosidade e calma, porque cada tipo de algoritmo é uma nova 
-janela de possibilidades para resolver o mundo com lógica.
+ O mais interessante é que esses tipos não são caixas fechadas muitas vezes, eles se combinam em um mesmo programa. 
+Um algoritmo pode ser recursivo e de busca, por exemplo. Por isso, aprender sobre essas variações não só enriquece 
+sua base de conhecimento, como também fortalece sua criatividade e autonomia como desenvolvedor ou entusiasta da 
+computação. Continue explorando, com curiosidade e calma, porque cada tipo de algoritmo é uma nova janela de 
+possibilidades para resolver o mundo com lógica.
 
 
 
