@@ -58,17 +58,36 @@ por peça, até formar algo completo e funcional.
 
 
 
-                                     "Algoritmo, Programa e Código"
+                                      "Algoritmo, Programa e Código"
 
-Quando a gente começa a mergulhar no universo da computação, é comum confundir alguns termos que, apesar de estarem bem próximos, não são exatamente a mesma coisa. Três palavrinhas que vivem andando juntas são: algoritmo, código e programa. Todas fazem parte do mesmo “mundo”, mas representam etapas diferentes dentro da criação de soluções para problemas. Entender como elas se encaixam é como entender as peças de um quebra-cabeça, e tudo começa pelo algoritmo.
+ Quando a gente começa a mergulhar no universo da computação, é comum confundir alguns termos que, apesar de 
+estarem bem próximos, não são exatamente a mesma coisa. Três palavrinhas que vivem andando juntas são: algoritmo, 
+código e programa. Todas fazem parte do mesmo “mundo”, mas representam etapas diferentes dentro da criação de 
+soluções para problemas. Entender como elas se encaixam é como entender as peças de um quebra-cabeça, e tudo começa 
+pelo algoritmo.
 
-O algoritmo é a ideia por trás da solução. Ele é o plano, o raciocínio lógico que organiza os passos necessários para resolver um problema. Imagine que você quer ensinar alguém a fazer um café. O algoritmo seria a lista de instruções: ferver a água, colocar o pó no filtro, despejar a água, esperar coar. Perceba que aqui ainda não usamos nenhuma linguagem específica; estamos só organizando o pensamento de forma clara e ordenada.
+ O algoritmo é a ideia por trás da solução. Ele é o plano, o raciocínio lógico que organiza os passos necessários 
+para resolver um problema. Imagine que você quer ensinar alguém a fazer um café. O algoritmo seria a lista de 
+instruções: ferver a água, colocar o pó no filtro, despejar a água, esperar coar. Perceba que aqui ainda não usamos 
+nenhuma linguagem específica; estamos só organizando o pensamento de forma clara e ordenada.
 
-O código, por sua vez, é a forma escrita desse algoritmo em uma linguagem que o computador consiga entender. É como se você pegasse a receita de café e escrevesse tudo de forma precisa, linha por linha, usando uma linguagem como Python, Java ou C++. O código é, portanto, a tradução do nosso plano lógico para uma linguagem formal. Ele dá instruções claras para o computador seguir, sem espaço para dúvidas ou improvisos.
+ O código, por sua vez, é a forma escrita desse algoritmo em uma linguagem que o computador consiga entender. É 
+como se você pegasse a receita de café e escrevesse tudo de forma precisa, linha por linha, usando uma linguagem 
+como Python, Java ou C++. O código é, portanto, a tradução do nosso plano lógico para uma linguagem formal. Ele dá 
+instruções claras para o computador seguir, sem espaço para dúvidas ou improvisos.
 
-Já o programa é o resultado final, o conjunto completo de códigos organizados e prontos para serem executados por uma máquina. É como transformar a receita e o passo a passo em uma cafeteira elétrica: você aperta um botão e ela faz tudo sozinha. O programa inclui o código, mas também envolve outros componentes que fazem a aplicação funcionar de ponta a ponta, como arquivos auxiliares, interfaces, estruturas de controle, e por aí vai. Ele é o produto final, já embalado e pronto para ser usado.
+ Já o programa é o resultado final, o conjunto completo de códigos organizados e prontos para serem executados por 
+uma máquina. É como transformar a receita e o passo a passo em uma cafeteira elétrica: você aperta um botão e ela 
+faz tudo sozinha. O programa inclui o código, mas também envolve outros componentes que fazem a aplicação funcionar 
+de ponta a ponta, como arquivos auxiliares, interfaces, estruturas de controle, e por aí vai. Ele é o produto 
+final, já embalado e pronto para ser usado.
 
-Entender a diferença entre algoritmo, código e programa é como conhecer os bastidores de uma peça de teatro: o algoritmo é o roteiro bem pensado, o código é o script escrito na linguagem dos atores, e o programa é o espetáculo completo acontecendo no palco. Cada um tem seu papel único, mas todos trabalham juntos para transformar uma ideia em algo funcional e real. Ao reconhecer essa relação, começamos a enxergar a computação de forma mais clara e estruturada, o que torna a jornada de aprendizado muito mais leve e interessante. E o melhor: agora que você entende essa base, está mais preparado para seguir com segurança para os próximos passos no mundo dos algoritmos!
+ Entender a diferença entre algoritmo, código e programa é como conhecer os bastidores de uma peça de teatro: o 
+algoritmo é o roteiro bem pensado, o código é o script escrito na linguagem dos atores, e o programa é o espetáculo 
+completo acontecendo no palco. Cada um tem seu papel único, mas todos trabalham juntos para transformar uma ideia 
+em algo funcional e real. Ao reconhecer essa relação, começamos a enxergar a computação de forma mais clara e 
+estruturada, o que torna a jornada de aprendizado muito mais leve e interessante. E o melhor: agora que você 
+entende essa base, está mais preparado para seguir com segurança para os próximos passos no mundo dos algoritmos!
 
 
 
