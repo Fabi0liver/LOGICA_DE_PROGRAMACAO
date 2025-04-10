@@ -30,7 +30,7 @@ lógica e criativa.
 
 
 
-                                      "Algoritmo Computacional"
+                                        "Algoritmo Computacional"
 
  Depois de entender o que é um algoritmo de forma geral, vale a pena dar um passo adiante e olhar para ele dentro 
 do contexto da computação. Quando falamos em algoritmo computacional, estamos nos referindo a um conjunto de passos 
@@ -58,7 +58,7 @@ por peça, até formar algo completo e funcional.
 
 
 
-                                      "Algoritmo, Programa e Código"
+                                     "Algoritmo, Programa e Código"
 
  Quando a gente começa a mergulhar no universo da computação, é comum confundir alguns termos que, apesar de 
 estarem bem próximos, não são exatamente a mesma coisa. Três palavrinhas que vivem andando juntas são: algoritmo, 
@@ -157,7 +157,7 @@ tornamos na arte de programar soluções inteligentes.
 
 
 
-                                     "As Formas de Representar Algoritmos"
+                                    "As Formas de Representar Algoritmos"
 
  Antes de um algoritmo ser transformado em código executável por um computador, ele precisa ser representado de 
 alguma forma. Essa representação pode variar dependendo do objetivo: às vezes queremos que fique fácil para outra 
@@ -346,7 +346,7 @@ possibilidades para resolver o mundo com lógica.
 
 
 
-                                        "Análise de Algoritmos"
+                                         "Análise de Algoritmos"
 
  Imagine que você precisa escolher entre dois caminhos para chegar até um destino. Um deles é mais curto, mas tem 
 muitos semáforos. O outro é mais longo, porém com fluxo mais livre. Ambos te levam até onde você quer, mas um pode 
@@ -434,7 +434,7 @@ computação, é um passo lindo rumo à maturidade técnica.
 
 
 
-                            "Onde os Algoritmos Estão no Nosso Cotidiano?"
+                              "Onde os Algoritmos Estão no Nosso Cotidiano?"
 
  À medida que mergulhamos mais fundo no universo da computação, começamos a perceber que os algoritmos não são 
 apenas estruturas lógicas usadas em programas de computador, eles são instrumentos fundamentais que moldam como o 
