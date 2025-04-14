@@ -61,4 +61,9 @@ Criar algoritmos é como montar uma rotina detalhada: "acorde, escove os dentes,
 Esse pilar desenvolve nossa capacidade de expressar soluções de maneira estruturada, seja por meio de texto, fluxogramas ou códigos de programação. Mas mais importante do que saber escrever o algoritmo, é entender como pensar em etapas lógicas. Assim como uma boa receita depende de uma sequência correta, um bom algoritmo depende de clareza, coerência e precisão, habilidades que servem tanto para resolver um problema de matemática quanto para planejar uma viagem.
 
 
+Em suma, compreender os quatro pilares do pensamento computacional é como adquirir uma nova forma de enxergar o mundo. Eles não são apenas ferramentas para programar computadores, mas lentes que nos ajudam a observar, analisar e solucionar problemas com mais lógica, criatividade e método. Decompor, abstrair, reconhecer padrões e criar algoritmos são habilidades que, quando combinadas, transformam desafios complexos em jornadas possíveis, e até prazerosas.
+
+Mais do que um conteúdo a ser decorado, esses pilares são práticas a serem vividas. Eles se desenvolvem com o uso constante, com a curiosidade ativa e com o exercício de resolver problemas reais, dos menores aos maiores. Ao seguir adiante nessa jornada de aprendizado, você estará não só aprendendo a pensar como um cientista da computação, mas cultivando uma nova forma de raciocinar que pode te acompanhar para o resto da vida.
+
+
 
