@@ -1,0 +1,16 @@
+                                      PENSAMENTO COMPUTACIONAL
+
+
+Imagine que você está prestes a resolver um quebra-cabeça, desses que vêm com centenas de peças. No início, ele parece impossível, um mar de fragmentos desconectados. Mas, aos poucos, você começa a organizar por cores, depois pelas bordas, encaixando as peças maiores primeiro. Sem perceber, você está usando pensamento computacional. Esse conceito, embora venha da Ciência da Computação, está muito mais presente no nosso cotidiano do que a gente imagina. Pensamento computacional é, essencialmente, a arte de resolver problemas de forma lógica, estruturada e eficiente — como quem desmonta um problema complicado em partes menores para torná-lo compreensível e solucionável.
+
+De forma geral, podemos pensar no pensamento computacional como um modo de “pensar como um computador”, mas isso não significa agir de forma fria ou robótica. Muito pelo contrário: trata-se de desenvolver uma mentalidade analítica, criativa e estratégica para lidar com desafios, seja programando um robô, seja organizando a rotina da semana ou mesmo lidando com imprevistos no dia a dia. É como quando você planeja uma receita de bolo: primeiro você separa os ingredientes (organização), entende a ordem das etapas (algoritmo), sabe que pode usar a mesma base para diferentes sabores (padrões), e evita se perder em detalhes desnecessários (abstração). Isso é pensamento computacional em ação, mesmo longe de qualquer linha de código.
+
+O mais bonito é que essa habilidade não está limitada a programadores. Ela é valiosa para engenheiros, artistas, professores, médicos, e qualquer pessoa que precise tomar decisões bem pensadas. Pensamento computacional ajuda a enxergar problemas com clareza, propor soluções mais inteligentes e até lidar melhor com a incerteza. Ele ensina que errar faz parte do processo, como num jogo de tabuleiro em que você tenta uma estratégia, falha, aprende e tenta outra. Essa abordagem investigativa, que mistura lógica com experimentação, transforma o erro em aprendizado.
+
+Na sala de aula, e também na vida, pensar computacionalmente é como ter uma lanterna em meio à escuridão de problemas complexos. Ao invés de ficar paralisado diante do desconhecido, você aprende a analisar, prever, testar, corrigir e refinar suas ideias. E o mais incrível? Isso pode ser aprendido por qualquer pessoa, independentemente da idade ou da familiaridade com tecnologia. O segredo está na prática, na curiosidade e na vontade de entender o “porquê” das coisas, mais do que decorar o “como”.
+
+Neste nosso percurso, vamos explorar o pensamento computacional com calma e profundidade, mas sempre com leveza e proximidade. Não será um estudo sobre “como se tornar um computador”, mas sim sobre como se tornar alguém que pensa melhor, com mais clareza, criatividade e método. A cada passo, vamos entender como esse tipo de pensamento pode transformar a forma como lidamos com os desafios, seja no código, no trabalho ou na vida.
+
+
+
+                                   Origem do Pensamento Computacional
