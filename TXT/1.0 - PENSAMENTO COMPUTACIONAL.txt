@@ -1,7 +1,7 @@
                                       PENSAMENTO COMPUTACIONAL
 
 
-Imagine que você está prestes a resolver um quebra-cabeça, desses que vêm com centenas de peças. No início, ele parece impossível, um mar de fragmentos desconectados. Mas, aos poucos, você começa a organizar por cores, depois pelas bordas, encaixando as peças maiores primeiro. Sem perceber, você está usando pensamento computacional. Esse conceito, embora venha da Ciência da Computação, está muito mais presente no nosso cotidiano do que a gente imagina. Pensamento computacional é, essencialmente, a arte de resolver problemas de forma lógica, estruturada e eficiente — como quem desmonta um problema complicado em partes menores para torná-lo compreensível e solucionável.
+Imagine que você está prestes a resolver um quebra-cabeça, desses que vêm com centenas de peças. No início, ele parece impossível, um mar de fragmentos desconectados. Mas, aos poucos, você começa a organizar por cores, depois pelas bordas, encaixando as peças maiores primeiro. Sem perceber, você está usando pensamento computacional. Esse conceito, embora venha da Ciência da Computação, está muito mais presente no nosso cotidiano do que a gente imagina. Pensamento computacional é, essencialmente, a arte de resolver problemas de forma lógica, estruturada e eficiente, como quem desmonta um problema complicado em partes menores para torná-lo compreensível e solucionável.
 
 De forma geral, podemos pensar no pensamento computacional como um modo de “pensar como um computador”, mas isso não significa agir de forma fria ou robótica. Muito pelo contrário: trata-se de desenvolver uma mentalidade analítica, criativa e estratégica para lidar com desafios, seja programando um robô, seja organizando a rotina da semana ou mesmo lidando com imprevistos no dia a dia. É como quando você planeja uma receita de bolo: primeiro você separa os ingredientes (organização), entende a ordem das etapas (algoritmo), sabe que pode usar a mesma base para diferentes sabores (padrões), e evita se perder em detalhes desnecessários (abstração). Isso é pensamento computacional em ação, mesmo longe de qualquer linha de código.
 
@@ -14,3 +14,30 @@ Neste nosso percurso, vamos explorar o pensamento computacional com calma e prof
 
 
                                    Origem do Pensamento Computacional
+
+Para entender de onde vem o pensamento computacional, precisamos fazer uma pequena viagem no tempo, lá para meados do século XX, quando os primeiros computadores estavam nascendo e os cientistas tentavam entender não só como fazer máquinas resolverem problemas, mas como pensar sobre os problemas de forma estruturada. Um nome fundamental nessa história é o de Alan Turing, um matemático britânico que, muito antes da invenção dos computadores como os conhecemos, já estava propondo modelos teóricos para representar processos de pensamento lógico. A famosa "Máquina de Turing", idealizada por ele em 1936, é um marco nesse caminho: ela não era uma máquina real, mas sim um modelo mental para mostrar como qualquer problema resolvível poderia ser executado por etapas bem definidas.
+
+Apesar disso, o termo "pensamento computacional" só viria a ganhar forma muitos anos depois. Foi Seymour Papert, um matemático e educador do MIT, quem começou a aproximar a ideia dos ambientes de ensino, especialmente para crianças. Papert acreditava que os computadores não deveriam ser usados apenas para ensinar programação, mas como ferramentas para desenvolver formas de pensar. Ele via no computador uma ponte entre a criatividade e a lógica, algo que poderia estimular crianças a pensar com mais clareza, construir ideias e testar hipóteses, como cientistas mirins. Papert criou a linguagem Logo, com aquela tartaruguinha que obedece comandos, justamente para que os alunos aprendessem, brincando, a organizar pensamentos de maneira lógica.
+
+Já o conceito como usamos hoje, mais estruturado e separado da ideia de "ensinar programação", foi fortemente consolidado por Jeannette Wing, em 2006. Em um artigo simples, mas revolucionário, ela defendeu que o pensamento computacional deveria ser considerado uma habilidade essencial, como ler, escrever e fazer contas. Wing argumentou que, mais do que programar, o importante era aprender a enxergar problemas como um cientista da computação enxerga: decompondo, abstraindo, reconhecendo padrões e criando soluções sistemáticas. Esse artigo foi o estopim para que escolas, universidades e sistemas educacionais do mundo todo passassem a incluir o pensamento computacional em suas diretrizes.
+
+Desde então, o conceito evoluiu e se espalhou por diversas áreas. O que antes era algo restrito a laboratórios de computação passou a ser visto como uma competência do século XXI. Hoje, pensar computacionalmente é algo incentivado desde a educação infantil até programas de formação para adultos, mostrando que essa habilidade não depende de ser um "gênio da tecnologia", mas sim de desenvolver uma nova maneira de encarar o mundo. A origem do pensamento computacional, portanto, é marcada por uma transição: do mundo das máquinas para o mundo das pessoas, da técnica pura para a educação, e do código para o cotidiano.
+
+
+
+                          "Quatro Pilares do Pensamento Computacional"
+
+ Pensar de forma computacional é como construir uma ponte entre o problema e a solução, e essa ponte não é feita ao acaso. Ela é sustentada por estruturas sólidas, uma espécie de esqueleto lógico que guia a mente por caminhos mais claros e eficientes. Para que esse tipo de raciocínio funcione bem, é preciso mais do que boa vontade ou criatividade: é preciso compreender como organizar os pensamentos. E aí entram os quatro pilares do pensamento computacional, que atuam como fundamentos invisíveis, mas poderosos, por trás da resolução de problemas com lógica e estratégia.
+
+ Esses pilares são como as ferramentas que um artesão leva consigo para o ateliê: cada uma tem uma função específica, mas todas são essenciais para transformar ideias em algo concreto. Eles não precisam ser usados sempre da mesma forma ou na mesma ordem, mas se complementam como peças de um jogo de construção. Ao dominá-los, você aprende a observar os desafios com um olhar mais técnico, porém criativo, e começa a desenvolver soluções que vão além do improviso, soluções que podem ser reproduzidas, testadas e aperfeiçoadas.
+
+Vamos, então, conhecer cada um desses pilares com calma, cuidado e muitos exemplos para torná-los parte do seu jeito de pensar.
+
+ * Decomposição: Imagine que você está organizando uma festa: se pensar em tudo de uma vez — comida, convidados, decoração, música, orçamento — o caos se instala. Mas se você divide tudo em tarefas menores e específicas, como “definir lista de convidados”, “comprar copos”, “criar playlist”, o desafio se torna muito mais gerenciável. Isso é decomposição: a habilidade de dividir um problema grande em partes menores e mais simples.
+
+No pensamento computacional, essa técnica é essencial para que problemas complexos não pareçam intransponíveis. Um programador, por exemplo, ao criar um jogo, precisa dividir o projeto em várias tarefas — como criar o cenário, programar os personagens, pensar nas regras — e resolver cada parte de forma independente.
+
+Ao aplicar a decomposição, treinamos nossa mente para enxergar as camadas de um problema, como quem desmonta um brinquedo para entender como ele funciona por dentro. Cada peça resolvida separadamente facilita a montagem do todo. É uma abordagem que ajuda não apenas a clarear o caminho, mas também a priorizar tarefas, evitar confusões e reaproveitar soluções. De certa forma, é como resolver um quebra-cabeça: peça por peça, até tudo se encaixar.
+
+
+ * 
