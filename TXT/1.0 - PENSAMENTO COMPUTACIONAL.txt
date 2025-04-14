@@ -33,11 +33,32 @@ Desde então, o conceito evoluiu e se espalhou por diversas áreas. O que antes 
 
 Vamos, então, conhecer cada um desses pilares com calma, cuidado e muitos exemplos para torná-los parte do seu jeito de pensar.
 
- * Decomposição: Imagine que você está organizando uma festa: se pensar em tudo de uma vez — comida, convidados, decoração, música, orçamento — o caos se instala. Mas se você divide tudo em tarefas menores e específicas, como “definir lista de convidados”, “comprar copos”, “criar playlist”, o desafio se torna muito mais gerenciável. Isso é decomposição: a habilidade de dividir um problema grande em partes menores e mais simples.
+ * Decomposição: Imagine que você está organizando uma festa: se pensar em tudo de uma vez (comida, convidados, decoração, música, orçamento) o caos se instala. Mas se você divide tudo em tarefas menores e específicas, como “definir lista de convidados”, “comprar copos”, “criar playlist”, o desafio se torna muito mais gerenciável. Isso é decomposição: a habilidade de dividir um problema grande em partes menores e mais simples.
 
-No pensamento computacional, essa técnica é essencial para que problemas complexos não pareçam intransponíveis. Um programador, por exemplo, ao criar um jogo, precisa dividir o projeto em várias tarefas — como criar o cenário, programar os personagens, pensar nas regras — e resolver cada parte de forma independente.
+No pensamento computacional, essa técnica é essencial para que problemas complexos não pareçam intransponíveis. Um programador, por exemplo, ao criar um jogo, precisa dividir o projeto em várias tarefas (como criar o cenário, programar os personagens, pensar nas regras) e resolver cada parte de forma independente.
 
 Ao aplicar a decomposição, treinamos nossa mente para enxergar as camadas de um problema, como quem desmonta um brinquedo para entender como ele funciona por dentro. Cada peça resolvida separadamente facilita a montagem do todo. É uma abordagem que ajuda não apenas a clarear o caminho, mas também a priorizar tarefas, evitar confusões e reaproveitar soluções. De certa forma, é como resolver um quebra-cabeça: peça por peça, até tudo se encaixar.
 
 
- * 
+ * Abstração: Agora imagine que você vai ensinar alguém a escovar os dentes. Você poderia explicar cada movimento minuciosamente, mas talvez seja mais eficiente dizer: “coloque pasta na escova, escove os dentes por dois minutos e enxágue”. Você está escondendo os detalhes menos importantes para focar no essencial. Isso é abstração: a arte de filtrar o que realmente importa em meio a uma montanha de informações.
+
+No pensamento computacional, a abstração nos ajuda a criar modelos mais simples, mais fáceis de entender, mantendo apenas os aspectos relevantes para a solução do problema. É como usar um mapa do metrô em vez da planta completa da cidade, o mapa não mostra cada rua, prédio ou semáforo, mas mostra exatamente o que você precisa para chegar ao seu destino.
+
+A habilidade de abstrair é fundamental quando queremos criar soluções reutilizáveis e compreensíveis. Ao programar, por exemplo, usamos funções que representam tarefas maiores, como “calcular nota final” ou “verificar senha”, sem precisar reescrever todo o passo a passo interno a cada vez. Assim, abstração permite clareza, economia de esforço e foco no que realmente interessa, exatamente como quando escolhemos a rota mais simples para explicar algo complexo.
+
+
+ * Reconhecimento de Padrões: Se você já percebeu que, ao atravessar a rua, sempre espera o sinal fechar e olha para os dois lados, você já identificou um padrão. E se já notou que quase todas as histórias de aventura têm um herói, um vilão e um desafio, você também está reconhecendo padrões. Este pilar se baseia justamente nisso: encontrar semelhanças e repetições em problemas e situações.
+
+No pensamento computacional, essa habilidade nos ajuda a prever comportamentos, criar regras gerais e aproveitar soluções já utilizadas. Por exemplo, ao desenvolver diferentes tipos de formulários em um site, um programador percebe que todos eles têm campos parecidos: nome, e-mail, botão de envio. Em vez de criar tudo do zero toda vez, ele identifica o padrão e constrói um modelo reutilizável.
+
+Reconhecer padrões nos torna mais eficientes. É como perceber que várias portas usam chaves parecidas, e com isso, você aprende a criar um modelo de chave que abre todas. Além de agilizar processos, esse pilar estimula a lógica e a generalização: conseguimos aplicar soluções testadas a novos contextos, economizando tempo e reduzindo a margem de erro.
+
+
+ * Elaboração de Algoritmos: Por fim, chegamos à alma do pensamento computacional: a elaboração de algoritmos. Pense em uma receita de bolo: uma sequência clara de passos que, se seguidos corretamente, levam sempre ao mesmo resultado. Isso é um algoritmo, uma série de instruções organizadas que resolvem um problema ou executam uma tarefa.
+
+Criar algoritmos é como montar uma rotina detalhada: "acorde, escove os dentes, vista-se, tome café, vá para o trabalho". Se você mudar a ordem ou esquecer uma etapa, talvez algo dê errado. No raciocínio computacional, algoritmos nos ajudam a transformar soluções em procedimentos claros, replicáveis e testáveis.
+
+Esse pilar desenvolve nossa capacidade de expressar soluções de maneira estruturada, seja por meio de texto, fluxogramas ou códigos de programação. Mas mais importante do que saber escrever o algoritmo, é entender como pensar em etapas lógicas. Assim como uma boa receita depende de uma sequência correta, um bom algoritmo depende de clareza, coerência e precisão, habilidades que servem tanto para resolver um problema de matemática quanto para planejar uma viagem.
+
+
+
