@@ -25,7 +25,7 @@ Desde então, o conceito evoluiu e se espalhou por diversas áreas. O que antes 
 
 
 
-                          "Quatro Pilares do Pensamento Computacional"
+                            "Quatro Pilares do Pensamento Computacional"
 
  Pensar de forma computacional é como construir uma ponte entre o problema e a solução, e essa ponte não é feita ao acaso. Ela é sustentada por estruturas sólidas, uma espécie de esqueleto lógico que guia a mente por caminhos mais claros e eficientes. Para que esse tipo de raciocínio funcione bem, é preciso mais do que boa vontade ou criatividade: é preciso compreender como organizar os pensamentos. E aí entram os quatro pilares do pensamento computacional, que atuam como fundamentos invisíveis, mas poderosos, por trás da resolução de problemas com lógica e estratégia.
 
@@ -64,6 +64,18 @@ Esse pilar desenvolve nossa capacidade de expressar soluções de maneira estrut
 Em suma, compreender os quatro pilares do pensamento computacional é como adquirir uma nova forma de enxergar o mundo. Eles não são apenas ferramentas para programar computadores, mas lentes que nos ajudam a observar, analisar e solucionar problemas com mais lógica, criatividade e método. Decompor, abstrair, reconhecer padrões e criar algoritmos são habilidades que, quando combinadas, transformam desafios complexos em jornadas possíveis, e até prazerosas.
 
 Mais do que um conteúdo a ser decorado, esses pilares são práticas a serem vividas. Eles se desenvolvem com o uso constante, com a curiosidade ativa e com o exercício de resolver problemas reais, dos menores aos maiores. Ao seguir adiante nessa jornada de aprendizado, você estará não só aprendendo a pensar como um cientista da computação, mas cultivando uma nova forma de raciocinar que pode te acompanhar para o resto da vida.
+
+
+
+                                        "Lógica Computacional"
+
+ A lógica computacional é como a linguagem interna do pensamento computacional, é por meio dela que as ideias ganham estrutura, coerência e possibilidade de execução. Na prática, ela nos ajuda a construir raciocínios sólidos e consistentes, baseados em regras claras. Essa lógica tem raízes na lógica matemática, mais especificamente na lógica booleana, que trabalha com proposições do tipo verdadeiro ou falso, sim ou não, 0 ou 1. Esses pares opostos são o alfabeto com o qual os computadores se comunicam, e também são a base para criar decisões dentro de algoritmos. Assim como num jogo de tabuleiro em que cada ação depende de uma regra (“se tirar 6, jogue novamente”), a lógica computacional organiza o raciocínio com base em condições, relações e consequências.
+
+No contexto do pensamento computacional, a lógica funciona como uma bússola que orienta como tomar decisões dentro de um processo. Ao criar um algoritmo, por exemplo, é comum precisar decidir entre dois caminhos: “se a senha estiver correta, permita o acesso; senão, mostre uma mensagem de erro”. Essa estrutura simples já envolve um tipo de raciocínio lógico, onde há uma condição e um resultado para cada caso. Isso também vale para repetições (“enquanto o jogador tiver vidas, continue o jogo”) ou comparações (“se a pontuação for maior que 100, avance para o próximo nível”). Com isso, a lógica computacional permite que os algoritmos sejam inteligentes, isto é, capazes de reagir conforme as situações mudam.
+
+Além disso, pensar logicamente nos treina a evitar contradições e redundâncias. Um bom raciocínio lógico nos ajuda a prever o que pode dar errado antes mesmo de executar uma ideia, como quem testa mentalmente uma receita antes de ligar o forno. Esse tipo de clareza é vital para qualquer processo computacional, porque um pequeno erro lógico pode comprometer toda a solução. Por isso, a lógica também estimula a prática da análise crítica, pois nos força a olhar com cuidado para cada decisão tomada, suas causas e suas possíveis consequências.
+
+Em resumo, a lógica computacional está intimamente entrelaçada ao pensamento computacional, como os trilhos para o trem, ela guia a construção de soluções bem organizadas, coerentes e funcionais. É ela quem dá a base para que os pilares como abstração e algoritmos funcionem corretamente. E o mais bonito disso tudo é perceber que esse tipo de lógica não serve apenas para programar computadores: ela também nos ensina a pensar com mais clareza, a argumentar com mais precisão e a resolver problemas com mais segurança — habilidades essenciais tanto no mundo digital quanto na vida cotidiana.
 
 
 
