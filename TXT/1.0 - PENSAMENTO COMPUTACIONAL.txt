@@ -75,7 +75,32 @@ No contexto do pensamento computacional, a lógica funciona como uma bússola qu
 
 Além disso, pensar logicamente nos treina a evitar contradições e redundâncias. Um bom raciocínio lógico nos ajuda a prever o que pode dar errado antes mesmo de executar uma ideia, como quem testa mentalmente uma receita antes de ligar o forno. Esse tipo de clareza é vital para qualquer processo computacional, porque um pequeno erro lógico pode comprometer toda a solução. Por isso, a lógica também estimula a prática da análise crítica, pois nos força a olhar com cuidado para cada decisão tomada, suas causas e suas possíveis consequências.
 
-Em resumo, a lógica computacional está intimamente entrelaçada ao pensamento computacional, como os trilhos para o trem, ela guia a construção de soluções bem organizadas, coerentes e funcionais. É ela quem dá a base para que os pilares como abstração e algoritmos funcionem corretamente. E o mais bonito disso tudo é perceber que esse tipo de lógica não serve apenas para programar computadores: ela também nos ensina a pensar com mais clareza, a argumentar com mais precisão e a resolver problemas com mais segurança — habilidades essenciais tanto no mundo digital quanto na vida cotidiana.
+Em resumo, a lógica computacional está intimamente entrelaçada ao pensamento computacional, como os trilhos para o trem, ela guia a construção de soluções bem organizadas, coerentes e funcionais. É ela quem dá a base para que os pilares como abstração e algoritmos funcionem corretamente. E o mais bonito disso tudo é perceber que esse tipo de lógica não serve apenas para programar computadores: ela também nos ensina a pensar com mais clareza, a argumentar com mais precisão e a resolver problemas com mais segurança, habilidades essenciais tanto no mundo digital quanto na vida cotidiana.
+
+
+
+                                       "Representação de Problemas"
+
+Na jornada de resolver qualquer desafio usando pensamento computacional, o primeiro passo não é sair programando ou buscando fórmulas, é entender o problema e representá-lo de forma clara. A representação de problemas consiste em traduzir uma situação do mundo real para um formato que possa ser analisado e manipulado logicamente. É como transformar uma bagunça de pensamentos em um mapa que mostra os caminhos possíveis. Essa representação pode ser feita de diversas formas: com palavras, diagramas, fluxogramas, tabelas, listas, esquemas visuais, ou até com pseudocódigos, tudo depende do que torna o raciocínio mais fácil de visualizar.
+
+Um bom exemplo vem do cotidiano: imagine que você precisa organizar um armário bagunçado. Em vez de sair mexendo em tudo, você pode desenhar um esquema com as prateleiras e rascunhar o que gostaria de guardar em cada uma. Esse rascunho é uma representação do problema. No universo computacional, fazemos o mesmo com problemas mais complexos, como calcular o melhor caminho entre dois pontos, organizar uma agenda, ou simular o comportamento de um elevador. Ao representar bem o problema, começamos a enxergar padrões, identificar obstáculos e planejar soluções de forma mais eficiente.
+
+Além de tornar o problema mais visível, a representação é fundamental para a comunicação. Muitas vezes, projetos computacionais são desenvolvidos em equipe, e cada pessoa precisa entender claramente o que está sendo resolvido. Uma boa representação permite que todos falem a mesma língua, mesmo que venham de áreas diferentes. Por isso, ferramentas como fluxogramas, mapas conceituais, gráficos ou pseudocódigos são tão usadas, elas ajudam a alinhar o pensamento de todos os envolvidos e funcionam como uma ponte entre a ideia e a execução.
+
+Por fim, representar bem um problema é um exercício de clareza mental. É o momento em que saímos do caos e entramos no campo do planejamento. Quando bem feito, esse passo economiza tempo, reduz erros e amplia as possibilidades de sucesso. Em outras palavras: se o pensamento computacional fosse uma construção, a representação do problema seria o projeto da obra, é ali que decidimos como tudo será estruturado antes de colocar a mão na massa.
+
+
+
+                                          "Raciocínio Lógico" 
+
+ Ao nos depararmos com um problema bem representado, nosso cérebro naturalmente começa a buscar maneiras de resolvê-lo. É aqui que entra o raciocínio lógico, uma habilidade fundamental para organizar ideias, fazer conexões e tomar decisões coerentes com base em regras. No contexto do pensamento computacional, esse raciocínio se transforma em uma espécie de “roteiro de solução”. Imagine, por exemplo, que você precisa ensinar alguém a preparar um café. Você não pode simplesmente dizer “faça café”, é preciso descrever os passos com clareza: ferver a água, colocar o pó no filtro, despejar a água, esperar o coador terminar. Isso é raciocínio lógico em ação: entender as etapas, suas sequências e suas dependências.
+
+ Quando aplicamos esse raciocínio à formulação de soluções computacionais, usamos estruturas como condições, laços  de repetição e sequências lógicas. Voltando à analogia do café, poderíamos dizer: “se a água estiver quente, despeje no filtro; senão, espere ferver”. Esses comandos seguem uma ordem e respeitam uma lógica que pode ser traduzida para algoritmos. Esse tipo de pensamento nos ajuda a quebrar um problema em partes menores e mais manejáveis, avaliando cada passo com objetividade. Assim, evitamos soluções confusas ou baseadas apenas em intuição.
+
+ Mais do que isso, o raciocínio lógico também nos ajuda a identificar alternativas. Nem sempre há uma única maneira de resolver algo. Às vezes, há vários caminhos, uns mais simples, outros mais eficientes. E é com lógica que conseguimos avaliar cada um, comparando vantagens e desvantagens. Esse exercício também nos ensina a pensar preventivamente: “e se der errado?”, “o que fazer se uma etapa falhar?”, “há uma condição de exceção a ser tratada?”. Tudo isso faz parte da formulação de soluções inteligentes, flexíveis e robustas.
+
+ Em resumo, o raciocínio lógico na formulação de soluções é a ponte entre a compreensão do problema e a sua resolução efetiva. Ele nos dá ferramentas mentais para pensar como engenheiros de soluções, planejando antes de agir, testando mentalmente antes de codificar, e sempre buscando clareza e eficiência no processo. Dominar esse raciocínio é um dos grandes diferenciais de quem pensa computacionalmente, seja para programar um robô, montar uma planilha inteligente ou apenas organizar melhor o próprio dia a dia.
+
 
 
 
