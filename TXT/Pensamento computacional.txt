@@ -1,0 +1,79 @@
+Pensamento computacional
+
+- Contexto histórico e de origem do Pensamento Computacional
+
+- Relação com programação e resolução de problemas
+
+- Pensamento computacional na educação básica
+
+- Pensamento computacional desplugado
+
+- Habilidades do pensamento computacional:
+
+  . Coleta de dados
+  . Analise de dados
+  . Representação de dados
+  . Decompor Problemas
+  . Abstração
+
+- Algoritmos e procedimentos em Pensamento computacional
+
+- Automação em Pensamento computacional
+
+- Paralelização em Pensamento computacional
+
+- Simulação Pensamento computacional
+
+- Pilares do Pensamento computacional
+
+  . Decomposição: Dividir um problema em partes menores e mais manejáveis, Identificar etapas de processos complexos, Aplicações práticas no cotidiano e na programação
+  
+  . Reconhecimento de Padrões: Identificar similaridades e repetições em dados ou situações, Comparar problemas semelhantes para encontrar soluções parecidas, Criação de soluções reutilizáveis com base em padrões
+  
+  . Abstração: Focar no que é essencial, ignorando detalhes irrelevantes, Generalizar soluções para diferentes contextos, Representar problemas com diagramas ou modelos simplificados
+  
+  . Algoritmo: Criar sequências de instruções claras e ordenadas, Descrever procedimentos passo a passo para resolver um problema, Entender diferentes estruturas algorítmicas (condicionais, repetições, etc.)
+
+
+
+- Instrucionismo (forma de ensinar)  e Construcionismo ( Forma a ser ensinada) no Pensamento computacional
+
+- Formas de representação do Pensamento computacional
+
+  . Linguagem natural (descrição narrativa)
+  . Diagrama ( Fluxograma ou blocos)
+  . Pseudocódigo
+  . Linguagem de Programação
+
+- Raciocínio Lógico e Resolução de Problemas no Pensamento computacional (Método de Pólya):
+
+  . Pensamento lógico e dedutivo
+  . Compreensão do Problema
+  . Planejamento da Resolução do Problema
+  . Execução do Planejamento
+  . Retrospecto e Depuração (debug)
+
+ - A importância na vida e nas profissões do pensamento computacional
+
+ - Introdução à Programação no pensamento computacional:
+
+   . Linguagens de programação visuais 
+   . Estrutura de um programa simples
+   . Eventos, variáveis, operadores e controle de fluxo
+   . Desenvolvimento de jogos, animações e interações simples
+
+ - Pensamento Computacional no Cotidiano
+
+ - Interdisciplinaridade e Pensamento Sistêmico
+
+ - Importancia do Pensamento computacional 
+ 
+ - Conclusão sobre o pensamento computacional
+
+
+
+
+
+
+
+ 
